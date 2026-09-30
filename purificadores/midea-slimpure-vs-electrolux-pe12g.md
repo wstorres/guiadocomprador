@@ -173,7 +173,7 @@ image: "/assets/img/purificadores/midea-slimpure-vs-electrolux-pe12g-capa.webp"
 ### ⚡ Resumo Direto para Decidir Agora:
 
 * 🚰 **Escolha o Midea SlimPure se:** você quer um purificador **ultra fino (apenas 16 cm)**, com fluxo contínuo (um toque enche a garrafa sem segurar) e que pode ser instalado tanto na bancada quanto **pendurado na parede**.
-* 🚀 **Escolha o Electrolux PE12G se:** você quer **encher o copo 4x mais rápido** com a tecnologia Powerjet, busca a sofisticação da **cor grafite** (não amarela com o sol) e prefere painel touch completo com iluminação LED.
+* 🚀 **Escolha o Electrolux PE12G se:** você quer **encher o copo 4x mais rápido** com a tecnologia Powerjet, busca a sofisticação da **cor grafite** (possui outras cores) e prefere painel touch completo com iluminação LED, pode ser instalado tanto na bancada quanto **pendurado na parede**.
 
 </div>
 
@@ -274,7 +274,7 @@ image: "/assets/img/purificadores/midea-slimpure-vs-electrolux-pe12g-capa.webp"
   <li>✅ <strong>Tecnologia Powerjet:</strong> fluxo pressurizado que enche copos muito rápido.</li>
   <li>✅ <strong>Cor Grafite Premium:</strong> não amarela e combina com eletrodomésticos modernos.</li>
   <li>✅ <strong>Painel Touch LED:</strong> controle suave com 3 temperaturas e aviso de refil.</li>
-  <li>⚠️ <em>Desenvolvido para uso em bancada (não acompanha suporte de parede).</em></li>
+  <li>⚠️ <em>Desenvolvido para uso em bancada ou fixo na parede.</em></li>
 </ul>
 
 <a class="btn-meli" href="https://meli.la/17PDFnC" target="_blank" rel="sponsored noopener nofollow">
