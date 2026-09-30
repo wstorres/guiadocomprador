@@ -92,7 +92,7 @@ Usa uma pastilha Peltier com ventoinha. É pequena, leve e quase não faz barulh
 
 <span class="selo">Melhor para água gelada</span>
 
-<img src="/assets/img/purificadores/consul-cpb33.webp" alt="Purificador de água Consul CPB33 com refrigeração por compressor, vista frontal" width="420" height="420" loading="lazy">
+<img src="{{ '/assets/img/purificadores/consul-cpb33.webp' | relative_url }}" alt="Purificador de água Consul CPB33 com refrigeração por compressor, vista frontal" width="420" height="420" loading="lazy" onerror="this.style.display='none'">
 
 **Sim, o Consul CPB33 é bom** para quem quer água gelada de verdade. Ele entrega até 1,5 litro por hora abaixo de 10 °C, o que atende bem uma família de 4 pessoas tirando vários copos seguidos, mesmo em dias acima de 32 °C.
 
@@ -120,7 +120,7 @@ Usa uma pastilha Peltier com ventoinha. É pequena, leve e quase não faz barulh
 
 <span class="selo azul">Melhor para espaço pequeno e silêncio</span>
 
-<img src="/assets/img/purificadores/electrolux-pe11x.webp" alt="Purificador de água Electrolux PE11X em inox com painel touch, refrigeração por placa" width="420" height="420" loading="lazy">
+<img src="{{ '/assets/img/purificadores/electrolux-pe11x.webp' | relative_url }}" alt="Purificador de água Electrolux PE11X em inox com painel touch, refrigeração por placa" width="420" height="420" loading="lazy" onerror="this.style.display='none'">
 
 **Depende do que você chama de gelada.** O Electrolux PE11X resfria com placa termoelétrica e entrega só cerca de 240 ml por hora de água mais fria. Nos dias quentes, a água chega a algo entre 14 °C e 16 °C. Serve para tirar o calor da água, mas não para "congelar os dentes". Se duas pessoas tomarem um copo cheio em sequência, o terceiro copo sai em temperatura ambiente.
 
