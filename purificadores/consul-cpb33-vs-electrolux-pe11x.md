@@ -16,7 +16,7 @@ date: 2026-03-30
   <span>🛡️ Testes & Comparativo Técnico</span>
 </div>
 
-# Qual o Melhor Produto: Consul CPB33 ou Electrolux PE11X?
+## Purificador de Água Consul CPB33 ou Electrolux PE11X: Qual o Melhor?
 
 <p class="lead-paragrafo">
 Está em dúvida entre o <strong>Consul CPB33</strong> e o <strong>Electrolux PE11X</strong>? O grande segredo dessa escolha está na tecnologia de refrigeração: motor com <strong>compressor potente</strong> vs placa eletrônica silenciosa e compacta. Veja o resumo prático abaixo para decidir em segundos.
