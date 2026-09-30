@@ -221,6 +221,8 @@ Tanto o Midea SlimPure quanto o Electrolux PE12G utilizam **refrigeração por p
 
 </div>
 
+</div>
+
 <div class="salvar-pagina-bar">
   <span>⭐ Gostou deste comparativo? Salve a página para não precisar pesquisar no Google de novo:</span>
   <button type="button" class="btn-salvar-fav" onclick="salvarNosFavoritos()">📌 Salvar nos Favoritos</button>
