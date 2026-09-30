@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 65" width="310" height="60" fill="none">
+  <style>
+    @keyframes starPulse {
+      0%, 100% { transform: scale(1) rotate(0deg); opacity: 0.9; }
+      50% { transform: scale(1.3) rotate(20deg); opacity: 1; filter: drop-shadow(0 0 5px #f59e0b); }
+    }
+    @keyframes checkBreath {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.06); }
+    }
+    @keyframes bagSwing {
+      0% { transform: rotate(0deg); }
+      25% { transform: rotate(-4deg); }
+      75% { transform: rotate(4deg); }
+      100% { transform: rotate(0deg); }
+    }
+    .star-sparkle {
+      transform-origin: 295px 16px;
+      animation: starPulse 2.4s ease-in-out infinite;
+    }
+    .check-badge {
+      transform-origin: 32px 38px;
+      animation: checkBreath 3s ease-in-out infinite;
+    }
+    .bag-container {
+      transform-origin: 32px 10px;
+      transition: transform 0.2s ease;
+    }
+    .bag-container:hover {
+      animation: bagSwing 0.6s ease-in-out;
+    }
+  </style>
+
+  <!-- Sacola de Compras com Selo de Aprovação -->
+  <g class="bag-container">
+    <!-- Alça -->
+    <path d="M22 20 C22 10, 42 10, 42 20" stroke="#0f172a" stroke-width="3" stroke-linecap="round" fill="none"/>
+    <!-- Corpo -->
+    <path d="M14 20 L50 20 L55 54 C55 56, 53 58, 51 58 L13 58 C11 58, 9 56, 9 54 Z" fill="url(#gradBag)"/>
+    <!-- Detalhe da dobra lateral -->
+    <path d="M14 20 L9 54 L15 58 Z" fill="#0369a1" opacity="0.6"/>
+    <!-- Selo com Checkmark -->
+    <circle class="check-badge" cx="32" cy="38" r="11" fill="#ffffff" stroke="#0284c7" stroke-width="2.5"/>
+    <path class="check-badge" d="M27 38 L31 42 L38 34" stroke="#0284c7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Tipografia Guia do Comprador -->
+  <g transform="translate(68, 8)">
+    <text x="0" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+          font-size="28" font-weight="900" fill="#0f172a" letter-spacing="-0.5">GUIA</text>
+    <text x="74" y="21" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+          font-size="11.5" font-weight="800" fill="#0284c7" letter-spacing="1.2">DO</text>
+    <text x="74" y="35" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+          font-size="16" font-weight="800" fill="#0284c7" letter-spacing="0.5">COMPRADOR</text>
+  </g>
+
+  <!-- Estrela de Destaque Animada -->
+  <g class="star-sparkle" transform="translate(295, 16)">
+    <path d="M0 -7 Q0 0 7 0 Q0 0 0 7 Q0 0 -7 0 Q0 0 0 -7 Z" fill="#f59e0b"/>
+  </g>
+
+  <defs>
+    <linearGradient id="gradBag" x1="14" y1="20" x2="55" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0284c7"/>
+      <stop offset="100%" stop-color="#0369a1"/>
+    </linearGradient>
+  </defs>
+</svg>

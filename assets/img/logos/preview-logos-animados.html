@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Opção 2 - Demonstração dos Logos Animados | Guia do Comprador</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #f8fafc;
+      color: #1e293b;
+      margin: 0;
+      padding: 40px 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    h1 {
+      text-align: center;
+      font-size: 2rem;
+      margin-bottom: 8px;
+      color: #0f172a;
+    }
+    p.sub {
+      text-align: center;
+      color: #64748b;
+      margin-bottom: 40px;
+      font-size: 1.05rem;
+    }
+    .cards-grid {
+      display: grid;
+      gap: 30px;
+    }
+    .logo-card {
+      background: #ffffff;
+      border: 1px solid #e2e8f0;
+      border-radius: 16px;
+      padding: 30px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.04);
+      transition: transform 0.2s;
+    }
+    .logo-card:hover {
+      box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+    }
+    .logo-preview-box {
+      background: #ffffff;
+      border: 2px dashed #e2e8f0;
+      border-radius: 12px;
+      padding: 24px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 16px;
+      min-height: 90px;
+      cursor: pointer;
+    }
+    .logo-preview-box.dark {
+      background: #0f172a;
+      border-color: #334155;
+    }
+    .card-info h3 {
+      margin: 0 0 6px;
+      font-size: 1.25rem;
+      color: #0284c7;
+    }
+    .card-info p {
+      margin: 0;
+      color: #475569;
+      font-size: 0.95rem;
+    }
+    .badge {
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 20px;
+      font-size: 0.75rem;
+      font-weight: 700;
+      margin-bottom: 10px;
+      background: #e0f2fe;
+      color: #0369a1;
+    }
+
+    /* ========================================================
+       ANIMAÇÃO ESTILO A: "CINTILAÇÃO DA ESTRELA & CHECK VIVO"
+       ======================================================== */
+    @keyframes starPulseA {
+      0%, 100% { transform: scale(1) rotate(0deg); opacity: 0.9; }
+      50% { transform: scale(1.3) rotate(20deg); opacity: 1; filter: drop-shadow(0 0 6px #f59e0b); }
+    }
+    @keyframes checkBounceA {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.08); }
+    }
+    .anim-a .star-sparkle {
+      transform-origin: 295px 16px;
+      animation: starPulseA 2.4s ease-in-out infinite;
+    }
+    .anim-a .check-badge {
+      transform-origin: 32px 36px;
+      animation: checkBounceA 3s ease-in-out infinite;
+    }
+    .anim-a:hover .shopping-bag {
+      animation: bagSwing 0.6s ease-in-out;
+      transform-origin: 32px 10px;
+    }
+    @keyframes bagSwing {
+      0% { transform: rotate(0deg); }
+      25% { transform: rotate(-5deg); }
+      75% { transform: rotate(5deg); }
+      100% { transform: rotate(0deg); }
+    }
+
+    /* ========================================================
+       ANIMAÇÃO ESTILO B: "FLUTUAÇÃO SUAVE + TRAÇO DINÂMICO"
+       ======================================================== */
+    @keyframes bagFloatB {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-4px); }
+    }
+    @keyframes starSpinB {
+      0% { transform: rotate(0deg) scale(1); }
+      50% { transform: rotate(180deg) scale(1.2); filter: drop-shadow(0 0 5px #f59e0b); }
+      100% { transform: rotate(360deg) scale(1); }
+    }
+    .anim-b .bag-group {
+      animation: bagFloatB 3s ease-in-out infinite;
+    }
+    .anim-b .star-sparkle {
+      transform-origin: 295px 16px;
+      animation: starSpinB 4s linear infinite;
+    }
+
+    /* ========================================================
+       ANIMAÇÃO ESTILO C: "MICRO-INTERATIVO PREMIUM COM SHIMMER"
+       ======================================================== */
+    @keyframes starBlinkC {
+      0%, 80%, 100% { transform: scale(1); opacity: 0.8; }
+      90% { transform: scale(1.4) rotate(45deg); opacity: 1; filter: drop-shadow(0 0 8px #f59e0b); }
+    }
+    .anim-c .star-sparkle {
+      transform-origin: 295px 16px;
+      animation: starBlinkC 2.8s ease-in-out infinite;
+    }
+    .anim-c:hover .bag-group {
+      transform: scale(1.06);
+      transition: transform 0.25s cubic-bezier(0.34, 1.56, 0.64, 1);
+    }
+    .anim-c:hover .star-sparkle {
+      animation: starSpinB 0.8s ease-in-out;
+    }
+    .anim-c:hover .brand-guia {
+      fill: #0284c7;
+      transition: fill 0.3s ease;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1>✨ Variações Dinâmicas para a Opção 2</h1>
+  <p class="sub">Passe o mouse por cima de cada logo para ver as micro-interações em tempo real!</p>
+
+  <div class="cards-grid">
+
+    <!-- Exemplo 1: Estilo A -->
+    <div class="logo-card">
+      <span class="badge">Variação 2A (Recomendada)</span>
+      <div class="logo-preview-box">
+        <svg class="anim-a" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 65" width="310" height="60" fill="none">
+          <!-- Ícone: Sacola de Compra Inteligente -->
+          <g class="bag-group shopping-bag">
+            <!-- Alça da Sacola -->
+            <path d="M22 20 C22 10, 42 10, 42 20" stroke="#0f172a" stroke-width="3" stroke-linecap="round" fill="none"/>
+            <!-- Corpo da Sacola -->
+            <path d="M14 20 L50 20 L55 54 C55 56, 53 58, 51 58 L13 58 C11 58, 9 56, 9 54 Z" fill="url(#gradBagA)"/>
+            <!-- Detalhe da dobra lateral -->
+            <path d="M14 20 L9 54 L15 58 Z" fill="#0369a1" opacity="0.6"/>
+            <!-- Selo de Verificado / Lupa na Sacola -->
+            <circle class="check-badge" cx="32" cy="38" r="11" fill="#ffffff" stroke="#0284c7" stroke-width="2.5"/>
+            <path class="check-badge" d="M27 38 L31 42 L38 34" stroke="#0284c7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+          </g>
+
+          <!-- Tipografia -->
+          <g transform="translate(68, 8)">
+            <!-- GUIA -->
+            <text x="0" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+                  font-size="28" font-weight="900" fill="#0f172a" letter-spacing="-0.5">GUIA</text>
+            <!-- DO COMPRADOR -->
+            <text x="74" y="21" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+                  font-size="11.5" font-weight="800" fill="#0284c7" letter-spacing="1.2">DO</text>
+            <text x="74" y="35" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+                  font-size="16" font-weight="800" fill="#0284c7" letter-spacing="0.5">COMPRADOR</text>
+          </g>
+
+          <!-- Estrela Cintilante Âmbar -->
+          <g class="star-sparkle" transform="translate(295, 16)">
+            <path d="M0 -7 Q0 0 7 0 Q0 0 0 7 Q0 0 -7 0 Q0 0 0 -7 Z" fill="#f59e0b"/>
+          </g>
+
+          <defs>
+            <linearGradient id="gradBagA" x1="14" y1="20" x2="55" y2="58" gradientUnits="userSpaceOnUse">
+              <stop offset="0%" stop-color="#0284c7"/>
+              <stop offset="100%" stop-color="#0369a1"/>
+            </linearGradient>
+          </defs>
+        </svg>
+      </div>
+      <div class="card-info">
+        <h3>2A. Cintilação Suave & Pulso no Selo</h3>
+        <p>A estrela dourada pulsa e brilha sutilmente, enquanto o selo com checkmark dentro da sacola respira. Ao passar o mouse, a sacola balança levemente. Perfeita para dar vida ao cabeçalho sem poluição visual.</p>
+      </div>
+    </div>
+
+    <!-- Exemplo 2: Estilo B -->
+    <div class="logo-card">
+      <span class="badge">Variação 2B</span>
+      <div class="logo-preview-box">
+        <svg class="anim-b" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 65" width="310" height="60" fill="none">
+          <g class="bag-group">
+            <path d="M22 20 C22 10, 42 10, 42 20" stroke="#0f172a" stroke-width="3" stroke-linecap="round" fill="none"/>
+            <path d="M14 20 L50 20 L55 54 C55 56, 53 58, 51 58 L13 58 C11 58, 9 56, 9 54 Z" fill="url(#gradBagB)"/>
+            <path d="M14 20 L9 54 L15 58 Z" fill="#0284c7" opacity="0.6"/>
+            <circle cx="32" cy="38" r="11" fill="#ffffff" stroke="#0284c7" stroke-width="2.5"/>
+            <path d="M27 38 L31 42 L38 34" stroke="#10b981" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+          </g>
+
+          <g transform="translate(68, 8)">
+            <text x="0" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+                  font-size="28" font-weight="900" fill="#0f172a" letter-spacing="-0.5">GUIA</text>
+            <text x="74" y="21" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+                  font-size="11.5" font-weight="800" fill="#0284c7" letter-spacing="1.2">DO</text>
+            <text x="74" y="35" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+                  font-size="16" font-weight="800" fill="#0284c7" letter-spacing="0.5">COMPRADOR</text>
+          </g>
+
+          <g class="star-sparkle" transform="translate(295, 16)">
+            <path d="M0 -7 Q0 0 7 0 Q0 0 0 7 Q0 0 -7 0 Q0 0 0 -7 Z" fill="#f59e0b"/>
+          </g>
+
+          <defs>
+            <linearGradient id="gradBagB" x1="14" y1="20" x2="55" y2="58" gradientUnits="userSpaceOnUse">
+              <stop offset="0%" stop-color="#38bdf8"/>
+              <stop offset="100%" stop-color="#0284c7"/>
+            </linearGradient>
+          </defs>
+        </svg>
+      </div>
+      <div class="card-info">
+        <h3>2B. Flutuação Leve & Rotação Contínua</h3>
+        <p>A sacola tem uma levitação sutil para cima e para baixo constante, e a estrela faz um giro suave de 360°, trazendo dinamismo moderno de portal de tecnologia.</p>
+      </div>
+    </div>
+
+    <!-- Exemplo 3: Estilo C -->
+    <div class="logo-card">
+      <span class="badge">Variação 2C</span>
+      <div class="logo-preview-box">
+        <svg class="anim-c" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 65" width="310" height="60" fill="none">
+          <g class="bag-group" style="transition: transform 0.2s ease;">
+            <path d="M22 20 C22 10, 42 10, 42 20" stroke="#0f172a" stroke-width="3" stroke-linecap="round" fill="none"/>
+            <path d="M14 20 L50 20 L55 54 C55 56, 53 58, 51 58 L13 58 C11 58, 9 56, 9 54 Z" fill="url(#gradBagC)"/>
+            <path d="M14 20 L9 54 L15 58 Z" fill="#0369a1" opacity="0.7"/>
+            <circle cx="32" cy="38" r="11" fill="#ffffff" stroke="#f59e0b" stroke-width="2.5"/>
+            <path d="M27 38 L31 42 L38 34" stroke="#f59e0b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+          </g>
+
+          <g transform="translate(68, 8)">
+            <text class="brand-guia" x="0" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+                  font-size="28" font-weight="900" fill="#0f172a" letter-spacing="-0.5">GUIA</text>
+            <text x="74" y="21" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+                  font-size="11.5" font-weight="800" fill="#0284c7" letter-spacing="1.2">DO</text>
+            <text x="74" y="35" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+                  font-size="16" font-weight="800" fill="#0284c7" letter-spacing="0.5">COMPRADOR</text>
+          </g>
+
+          <g class="star-sparkle" transform="translate(295, 16)">
+            <path d="M0 -7 Q0 0 7 0 Q0 0 0 7 Q0 0 -7 0 Q0 0 0 -7 Z" fill="#f59e0b"/>
+          </g>
+
+          <defs>
+            <linearGradient id="gradBagC" x1="14" y1="20" x2="55" y2="58" gradientUnits="userSpaceOnUse">
+              <stop offset="0%" stop-color="#0284c7"/>
+              <stop offset="100%" stop-color="#0f172a"/>
+            </linearGradient>
+          </defs>
+        </svg>
+      </div>
+      <div class="card-info">
+        <h3>2C. Micro-Interação Magnética ao Passar o Mouse</h3>
+        <p>Design mais sóbrio e estático em repouso, mas que ganha vida e destaque ao interagir: ao passar o cursor, a sacola cresce suavemente, as cores mudam e a estrela ganha um brilho especial.</p>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+</body>
+</html>

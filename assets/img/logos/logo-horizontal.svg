@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 60" width="320" height="60" fill="none">
+  <!-- Símbolo / Ícone: Escudo + Checkmark Dinâmico de Decisão Inteligente -->
+  <g transform="translate(10, 5)">
+    <!-- Fundo do Escudo -->
+    <path d="M25 2 C36 2, 45 7, 47 16 C47 30, 36 43, 25 48 C14 43, 3 30, 3 16 C5 7, 14 2, 25 2 Z" 
+          fill="url(#gradEscudo)" opacity="0.12"/>
+    <!-- Borda do Escudo -->
+    <path d="M25 4 C34 4, 42 8, 44 16 C44 28, 34 39, 25 44 C16 39, 6 28, 6 16 C8 8, 16 4, 25 4 Z" 
+          stroke="url(#gradEscudo)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Checkmark Dinâmico / Bússola -->
+    <path d="M14 24 L22 32 L38 14" 
+          stroke="#f59e0b" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="38" cy="14" r="2.5" fill="#f59e0b"/>
+  </g>
+
+  <!-- Tipografia do Logo -->
+  <g transform="translate(70, 0)">
+    <!-- GUIA -->
+    <text x="0" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+          font-size="26" font-weight="900" fill="#0f172a" letter-spacing="-0.5">GUIA</text>
+    
+    <!-- DO COMPRADOR -->
+    <text x="72" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+          font-size="20" font-weight="800" fill="#0284c7" letter-spacing="0.2">DO COMPRADOR</text>
+    
+    <!-- Tagline Sutil -->
+    <text x="1" y="47" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+          font-size="9.5" font-weight="600" fill="#64748b" letter-spacing="1.2">COMPARATIVOS &amp; COMPRA INTELIGENTE</text>
+    
+    <!-- Estrela de recomendação / detalhe -->
+    <path d="M236 21 L238 25 L242 25 L239 27 L240 31 L236 29 L232 31 L233 27 L230 25 L234 25 Z" fill="#f59e0b"/>
+  </g>
+
+  <!-- Gradientes -->
+  <defs>
+    <linearGradient id="gradEscudo" x1="3" y1="2" x2="47" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0284c7"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+  </defs>
+</svg>
