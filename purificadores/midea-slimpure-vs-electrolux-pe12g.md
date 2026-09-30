@@ -199,7 +199,7 @@ image: "/assets/img/purificadores/midea-slimpure-vs-electrolux-pe12g-capa.webp"
     <tr>
       <td><strong>Instalação na parede?</strong></td>
       <td><strong>Sim! (Bancada ou Parede)</strong></td>
-      <td>Apenas bancada / pia</td>
+      <td><strong>Sim! (Bancada ou Parede)</strong></td>
     </tr>
     <tr>
       <td><strong>Tamanho e largura</strong></td>
@@ -272,9 +272,9 @@ image: "/assets/img/purificadores/midea-slimpure-vs-electrolux-pe12g-capa.webp"
 
 <ul class="lista-pontos">
   <li>✅ <strong>Tecnologia Powerjet:</strong> fluxo pressurizado que enche copos muito rápido.</li>
-  <li>✅ <strong>Cor Grafite Premium:</strong> não amarela e combina com eletrodomésticos modernos.</li>
-  <li>✅ <strong>Painel Touch LED:</strong> controle suave com 3 temperaturas e aviso de refil.</li>
-  <li>⚠️ <em>Desenvolvido para uso em bancada ou fixo na parede.</em></li>
+  <li>✅ <strong>Cor Grafite Premium:</strong> visual moderno e sofisticado (também disponível em outras cores).</li>
+  <li>✅ <strong>Instalação Versátil:</strong> pronto para uso na bancada ou fixado na parede.</li>
+  <li>⚠️ <em>Por ter refrigeração eletrônica, a água sai fresca (15 °C) e atende melhor 1 ou 2 pessoas.</em></li>
 </ul>
 
 <a class="btn-meli" href="https://meli.la/17PDFnC" target="_blank" rel="sponsored noopener nofollow">
@@ -290,8 +290,8 @@ image: "/assets/img/purificadores/midea-slimpure-vs-electrolux-pe12g-capa.webp"
 ## Dúvidas Mais Comuns
 
 <div class="faq-simples">
-  <strong>1. O Midea SlimPure pode ser furado na parede?</strong>
-  Sim! Uma das grandes vantagens do Midea SlimPure é que ele já é projetado para fixação direta na parede ou apoio na bancada, liberando espaço na cozinha.
+  <strong>1. Eles podem ser instalados na parede?</strong>
+  Sim! Tanto o Midea SlimPure quanto o Electrolux PE12G contam com suporte para fixação na parede ou uso apoiado na bancada da pia, liberando espaço útil na sua cozinha.
 </div>
 
 <div class="faq-simples">
