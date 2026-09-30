@@ -42,6 +42,13 @@ Está em dúvida entre o <strong>Midea SlimPure</strong> e o <strong>Electrolux 
   </a>
 </div>
 
+<div class="dica-favorito">
+  <span class="dica-favorito-icone">💡</span>
+  <div>
+    <strong>Dica de Economia:</strong> Ao abrir a página no Mercado Livre, clique no <strong>ícone de coração (Favoritar)</strong> ou adicione o purificador ao carrinho. Assim você salva o produto na sua conta e o próprio aplicativo do Mercado Livre te avisa com prioridade se houver queda de preço ou cupons relâmpago!
+  </div>
+</div>
+
 </div>
 
 ---
@@ -214,6 +221,9 @@ Tanto o Midea SlimPure quanto o Electrolux PE12G utilizam **refrigeração por p
 
 </div>
 
+<div class="salvar-pagina-bar">
+  <span>⭐ Gostou deste comparativo? Salve a página para não precisar pesquisar no Google de novo:</span>
+  <button type="button" class="btn-salvar-fav" onclick="salvarNosFavoritos()">📌 Salvar nos Favoritos</button>
 </div>
 
 ---

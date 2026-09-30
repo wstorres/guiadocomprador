@@ -10,6 +10,9 @@ description: "Encontre os melhores produtos com comparativos técnicos imparciai
   <p>Comparamos especificações técnicas reais, eficiência de consumo e custo-benefício para você decidir em menos de 1 minuto e comprar com o melhor preço.</p>
 </div>
 
+<!-- Histórico Local do Visitante (Ativado automaticamente por Cookie/LocalStorage) -->
+<div id="box-historico-visitante" class="box-recentes-usuario"></div>
+
 <h2>🔍 Comparativos em Destaque</h2>
 
 <div class="grid-comparativos">

@@ -42,6 +42,13 @@ Está em dúvida entre o <strong>Consul CPB33</strong> e o <strong>Electrolux PE
   </a>
 </div>
 
+<div class="dica-favorito">
+  <span class="dica-favorito-icone">💡</span>
+  <div>
+    <strong>Dica de Economia:</strong> Ao abrir a página do produto, adicione-o aos <strong>Favoritos / Lista de Desejos</strong> ou ao seu carrinho. Assim o site salva o item na sua conta e te notifica diretamente se o produto entrar em promoção ou com frete reduzido!
+  </div>
+</div>
+
 </div>
 
 ---
@@ -192,6 +199,11 @@ O **Electrolux PE11X** com acabamento em aço inox escovado é feito sob medida 
 
 </div>
 
+</div>
+
+<div class="salvar-pagina-bar">
+  <span>⭐ Gostou deste comparativo? Salve a página para não precisar pesquisar no Google de novo:</span>
+  <button type="button" class="btn-salvar-fav" onclick="salvarNosFavoritos()">📌 Salvar nos Favoritos</button>
 </div>
 
 ---
