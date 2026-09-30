@@ -11,6 +11,5 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-author:
-  name: "Redação Guia do Comprador"
-  email: "contato@guiadocomprador.com"
+author: "Redação Guia do Comprador"
+email: "contato@guiadocomprador.com"
