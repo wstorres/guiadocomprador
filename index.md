@@ -12,3 +12,4 @@ Bem-vindo ao portal de análises e comparativos técnicos. Nosso foco é compara
 ## Comparativos Recentes
 
 * [Consul CPB33 vs Electrolux PE11X: Qual o Melhor Purificador?](purificadores/consul-cpb33-vs-electrolux-pe11x)
+* [Midea SlimPure vs Electrolux PE12G: Qual Purificador Escolher?](purificadores/midea-slimpure-vs-electrolux-pe12g)
