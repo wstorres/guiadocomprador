@@ -16,7 +16,7 @@ date: 2026-03-30
   <span>🛡️ Testes & Comparativo Técnico</span>
 </div>
 
-# Midea SlimPure ou Electrolux PE12G: Qual Escolher? Comparativo Rápido
+## Purificador de Água Midea SlimPure ou Electrolux PE12G: Qual Escolher? Comparativo Rápido
 
 <p class="lead-paragrafo">
 Está em dúvida entre o <strong>Midea SlimPure</strong> e o <strong>Electrolux PE12G</strong>? Ambos são os purificadores bivolt mais procurados para quem tem cozinha compacta e precisa de instalação versátil na bancada ou na parede. Comparamos os pontos decisivos de vazão, refrigeração e custo-benefício para você escolher o modelo ideal em menos de 1 minuto.
