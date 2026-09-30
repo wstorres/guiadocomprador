@@ -1,235 +1,120 @@
 ---
 layout: default
-title: "Midea SlimPure ou Electrolux PE12G: Qual Purificador Comprar? (2026)"
-description: "Midea SlimPure é bom? Electrolux PE12G vale a pena? Compare tamanho, fluxo Powerjet e filtragem. Escolha em 1 minuto o melhor para sua cozinha no Mercado Livre!"
-keywords: "midea slimpure é bom, electrolux pe12g vale a pena, midea slimpure vs electrolux pe12g, melhor purificador compacto bivolt"
+title: "Midea SlimPure ou Electrolux PE12G: Qual Comprar em 2026? Comparativo"
+description: "Midea SlimPure é bom? Electrolux PE12G vale a pena? Compare fluxo Powerjet, tamanho compacto, ruído e economia. Veja o veredito e onde comprar com desconto!"
+keywords: "midea slimpure é bom, electrolux pe12g vale a pena, midea slimpure vs electrolux pe12g, melhor purificador compacto bivolt, purificador de água de parede"
 image: "/assets/img/purificadores/midea-slimpure-vs-electrolux-pe12g-capa.webp"
+date: 2026-03-30
 ---
-
-<style>
-.guia-wrap {
-  max-width: 800px;
-  margin: 0 auto;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  color: #334155;
-  line-height: 1.6;
-}
-.guia-wrap h1 {
-  font-size: 1.85rem;
-  font-weight: 800;
-  color: #0f172a;
-  text-align: center;
-  margin: 12px 0 16px;
-}
-.guia-wrap h2 {
-  font-size: 1.35rem;
-  color: #0f172a;
-  margin: 30px 0 14px;
-  border-left: 4px solid #0284c7;
-  padding-left: 10px;
-}
-.hero-foto {
-  width: 100%;
-  border-radius: 12px;
-  margin-bottom: 20px;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.08);
-}
-.box-decisao {
-  background: #f0fdf4;
-  border: 2px solid #4ade80;
-  border-radius: 12px;
-  padding: 18px 20px;
-  margin: 20px 0;
-}
-.box-decisao h3 {
-  margin: 0 0 10px;
-  color: #166534;
-  font-size: 1.15rem;
-}
-.box-decisao p {
-  margin: 6px 0;
-  font-size: 0.98rem;
-}
-.tabela-comparativo {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 20px 0;
-  font-size: 0.92rem;
-}
-.tabela-comparativo th, .tabela-comparativo td {
-  padding: 10px 12px;
-  border: 1px solid #e2e8f0;
-  text-align: left;
-}
-.tabela-comparativo th {
-  background: #f1f5f9;
-  color: #0f172a;
-}
-.tabela-comparativo tr:nth-child(even) {
-  background: #f8fafc;
-}
-.grid-produtos {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 20px;
-  margin: 24px 0;
-}
-.card-prod {
-  background: #ffffff;
-  border: 2px solid #e2e8f0;
-  border-radius: 14px;
-  padding: 20px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.04);
-}
-.card-prod.midea {
-  border-color: #0284c7;
-}
-.card-prod.electrolux {
-  border-color: #475569;
-}
-.card-prod img {
-  width: 100%;
-  max-width: 240px;
-  margin: 0 auto 12px;
-  display: block;
-  border-radius: 8px;
-}
-.card-prod h3 {
-  margin: 0 0 8px;
-  font-size: 1.2rem;
-  text-align: center;
-  color: #0f172a;
-}
-.selo-tag {
-  display: inline-block;
-  background: #e0f2fe;
-  color: #0369a1;
-  font-size: 0.75rem;
-  font-weight: 700;
-  padding: 4px 8px;
-  border-radius: 6px;
-  text-align: center;
-  margin-bottom: 12px;
-}
-.selo-tag.grafite {
-  background: #f1f5f9;
-  color: #334155;
-  border: 1px solid #cbd5e1;
-}
-.lista-pontos {
-  font-size: 0.9rem;
-  margin: 12px 0 18px;
-  padding-left: 20px;
-}
-.lista-pontos li {
-  margin-bottom: 6px;
-}
-.btn-meli {
-  display: block;
-  background: linear-gradient(180deg, #ffe600 0%, #ffd000 100%);
-  color: #2d3277 !important;
-  font-weight: 800;
-  font-size: 1rem;
-  text-align: center;
-  padding: 13px 16px;
-  border-radius: 8px;
-  text-decoration: none !important;
-  box-shadow: 0 3px 0 #ccaa00;
-  transition: transform 0.1s;
-}
-.btn-meli:hover {
-  transform: translateY(-2px);
-  background: #fff033;
-}
-.faq-simples {
-  background: #f8fafc;
-  border-radius: 10px;
-  padding: 14px 18px;
-  margin-bottom: 10px;
-  border: 1px solid #e2e8f0;
-}
-.faq-simples strong {
-  color: #0f172a;
-  display: block;
-  margin-bottom: 4px;
-}
-@media (max-width: 650px) {
-  .grid-produtos { grid-template-columns: 1fr; }
-  .guia-wrap h1 { font-size: 1.5rem; }
-}
-</style>
 
 <div class="guia-wrap" markdown="1">
 
+<div class="artigo-meta">
+  <span class="badge-categoria">Purificadores de Água</span>
+  <span>📅 Atualizado em 2026</span>
+  <span>⏱️ Leitura: 3 minutos</span>
+  <span>🛡️ Testes & Comparativo Técnico</span>
+</div>
+
 # Midea SlimPure ou Electrolux PE12G: Qual Escolher? Comparativo Rápido
 
-<img class="hero-foto" src="{{ '/assets/img/purificadores/midea-slimpure-vs-electrolux-pe12g-capa.webp' | relative_url }}" alt="Comparativo Midea SlimPure vs Electrolux PE12G Grafite em bancada">
+<p class="lead-paragrafo">
+Está em dúvida entre o <strong>Midea SlimPure</strong> e o <strong>Electrolux PE12G</strong>? Ambos são os purificadores bivolt mais procurados para quem tem cozinha compacta e precisa de instalação versátil na bancada ou na parede. Comparamos os pontos decisivos de vazão, refrigeração e custo-benefício para você escolher o modelo ideal em menos de 1 minuto.
+</p>
+
+<img class="hero-foto" src="{{ '/assets/img/purificadores/midea-slimpure-vs-electrolux-pe12g-capa.webp' | relative_url }}" alt="Comparativo Midea SlimPure vs Electrolux PE12G Grafite em bancada de cozinha" width="1376" height="768" loading="eager">
 
 <div class="box-decisao" markdown="1">
 
 ### ⚡ Resumo Direto para Decidir Agora:
 
-* 🚰 **Escolha o Midea SlimPure se:** você quer um purificador **ultra fino (apenas 16 cm)**, com fluxo contínuo (um toque enche a garrafa sem segurar) e que pode ser instalado tanto na bancada quanto **pendurado na parede**.
-* 🚀 **Escolha o Electrolux PE12G se:** você quer **encher o copo 4x mais rápido** com a tecnologia Powerjet, busca a sofisticação da **cor grafite** (possui outras cores) e prefere painel touch completo com iluminação LED, pode ser instalado tanto na bancada quanto **pendurado na parede**.
+* 🚰 **Escolha o Midea SlimPure se:** você quer o purificador mais compacto possível (**apenas 16,4 cm de largura**), com fluxo contínuo automático (um toque enche jarras sem precisar segurar o botão) e o melhor custo-benefício da categoria.
+* 🚀 **Escolha o Electrolux PE12G se:** você quer **encher copos até 4x mais rápido** com a tecnologia pressurizada Powerjet, busca a sofisticação da **cor grafite escovado** e prefere painel touch com aviso inteligente de troca de filtro.
+
+<div class="quick-cta-container">
+  <a class="btn-mini-meli" href="https://meli.la/1H46Pjk" target="_blank" rel="sponsored noopener nofollow">
+    👉 Ver Midea SlimPure no Mercado Livre
+    <small>⚡ Menor preço e frete rápido</small>
+  </a>
+  <a class="btn-mini-meli" href="https://meli.la/17PDFnC" target="_blank" rel="sponsored noopener nofollow">
+    👉 Ver Electrolux PE12G no Mercado Livre
+    <small>⚡ Menor preço e frete rápido</small>
+  </a>
+</div>
 
 </div>
 
 ---
 
-## Comparativo Rápido (Lado a Lado)
+## Comparativo Rápido de Especificações (Lado a Lado)
 
-<div style="overflow-x: auto;">
+<div class="tabela-container">
 <table class="tabela-comparativo">
   <thead>
     <tr>
-      <th>O que muda na prática?</th>
+      <th>Recurso / Especificação</th>
       <th>Midea SlimPure Bivolt</th>
       <th>Electrolux PE12G Grafite</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>Velocidade do fluxo</strong></td>
-      <td>Fluxo contínuo automático com 1 toque</td>
-      <td><strong>Powerjet (enche até 4x mais rápido)</strong></td>
+      <td><strong>Velocidade do Fluxo</strong></td>
+      <td>Fluxo contínuo com 1 toque (automático)</td>
+      <td><span class="highlight">Powerjet (enche até 4x mais rápido)</span></td>
     </tr>
     <tr>
-      <td><strong>Instalação na parede?</strong></td>
+      <td><strong>Instalação na Parede?</strong></td>
       <td><strong>Sim! (Bancada ou Parede)</strong></td>
       <td><strong>Sim! (Bancada ou Parede)</strong></td>
     </tr>
     <tr>
-      <td><strong>Tamanho e largura</strong></td>
-      <td><strong>Ultra Slim: apenas 16,4 cm de largura</strong></td>
-      <td>Compacto: cerca de 16 cm de largura</td>
+      <td><strong>Largura e Espaço na Pia</strong></td>
+      <td><span class="highlight">Ultra Slim: apenas 16,4 cm</span></td>
+      <td>Compacto: cerca de 16,0 cm</td>
     </tr>
     <tr>
-      <td><strong>Acabamento e cor</strong></td>
-      <td>Cinza moderno resistente</td>
-      <td><strong>Grafite escuro premium (não mancha)</strong></td>
+      <td><strong>Visual e Acabamento</strong></td>
+      <td>Preto/Cinza moderno e fosco</td>
+      <td><span class="highlight">Grafite metálico premium (não amarela)</span></td>
     </tr>
     <tr>
-      <td><strong>Opções de temperatura</strong></td>
+      <td><strong>Opções de Temperatura</strong></td>
       <td>Natural, fria e gelada</td>
       <td>Natural, fresca e gelada</td>
     </tr>
     <tr>
-      <td><strong>Aviso de troca de filtro</strong></td>
-      <td>Sim (indicador automático)</td>
-      <td>Sim (alerta luminoso touch)</td>
+      <td><strong>Sistema de Refrigeração</strong></td>
+      <td>Eletrônico (silencioso e econômico)</td>
+      <td>Eletrônico (silencioso e econômico)</td>
     </tr>
     <tr>
-      <td><strong>Filtro e pureza</strong></td>
+      <td><strong>Aviso de Troca de Filtro</strong></td>
+      <td>Sim (indicador luminoso)</td>
+      <td><span class="highlight">Sim (alerta touch inteligente)</span></td>
+    </tr>
+    <tr>
+      <td><strong>Filtragem e Retenção</strong></td>
       <td>Filtro 2 estágios (carvão + microfibra)</td>
-      <td>Filtro Acqua Pure (cloro, odores e micropartículas)</td>
+      <td>Filtro Acqua Pure (cloro, odores e partículas)</td>
     </tr>
     <tr>
       <td><strong>Voltagem</strong></td>
-      <td>Bivolt automático</td>
-      <td>Bivolt automático</td>
+      <td>Bivolt automático (110V / 220V)</td>
+      <td>Bivolt automático (110V / 220V)</td>
+    </tr>
+    <tr style="background: #f0fdf4;">
+      <td><strong>Onde Comprar com Desconto</strong></td>
+      <td>
+        <a class="btn-tabela" href="https://meli.la/1H46Pjk" target="_blank" rel="sponsored noopener nofollow">
+          Ver Oferta Midea →
+        </a>
+      </td>
+      <td>
+        <a class="btn-tabela" href="https://meli.la/17PDFnC" target="_blank" rel="sponsored noopener nofollow">
+          Ver Oferta Electrolux →
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -237,7 +122,37 @@ image: "/assets/img/purificadores/midea-slimpure-vs-electrolux-pe12g-capa.webp"
 
 ---
 
-## Escolha o Seu Modelo:
+## Midea SlimPure é bom? Vale a pena comprar?
+
+O **Midea SlimPure** se destaca pelo design ultra estreito (apenas 16,4 cm), sendo uma das soluções mais inteligentes para cozinhas pequenas ou bancadas com pouco espaço.
+
+* **Função Encher Garrafa (Fluxo Contínuo):** Você dá um único toque no botão e a água corre sem precisar ficar segurando com a mão até o recipiente encher.
+* **Versatilidade Total:** Acompanha os acessórios necessários para uso tanto apoiado na pia quanto fixado diretamente na parede.
+* **Custo-Benefício:** Costuma ter um preço médio de compra e refis de reposição mais acessíveis do que a concorrência direta.
+
+---
+
+## Electrolux PE12G é bom? Vale a pena comprar?
+
+O **Electrolux PE12G** é um dos modelos mais vendidos da Electrolux por unir acabamento sofisticado e tecnologia de pressão:
+
+* **Tecnologia Powerjet:** O grande diferencial prático é a pressão de saída. Ele pressuriza a água para encher copos e garrafas até 4 vezes mais rápido do que purificadores eletrônicos convencionais.
+* **Cor Grafite Sofisticada:** Ao contrário dos modelos brancos tradicionais que podem amarelar com os anos sob luz solar ou gordura da cozinha, o acabamento grafite mantém o aspecto de novo por muito mais tempo.
+* **Painel Touch com Luz LED:** Os botões sensíveis ao toque facilitam a limpeza e contam com iluminação indicativa de quando o refil Acqua Pure precisa ser trocado.
+
+---
+
+## Eles gelam de verdade? Entenda a refrigeração eletrônica
+
+Tanto o Midea SlimPure quanto o Electrolux PE12G utilizam **refrigeração por placa eletrônica (sistema termoelétrico / Peltier)**.
+
+* **Como funciona na prática:** Eles entregam água refrescante (em torno de 13 °C a 15 °C), ideal para o dia a dia de 1 a 2 pessoas.
+* **Vantagens:** São extremamente silenciosos (sem o zumbido de motor compressor), não vibram na parede e consomem pouquíssima energia elétrica (bivolt automático).
+* **Atenção:** Se a sua casa tem 4 ou mais pessoas que consomem litros de água geladíssima (estilo geladeira) simultaneamente no calor intenso, um purificador com compressor (como o Consul CPB33) será mais indicado. Para 1 a 2 pessoas e consumo moderado, o Midea e o Electrolux atendem com perfeição.
+
+---
+
+## Escolha o Seu Modelo com o Menor Preço:
 
 <div class="grid-produtos" markdown="1">
 
@@ -245,19 +160,27 @@ image: "/assets/img/purificadores/midea-slimpure-vs-electrolux-pe12g-capa.webp"
 
 <div style="text-align: center;">
   <span class="selo-tag">Melhor para Espaço Mínimo e Parede</span>
-  <img src="{{ '/assets/img/purificadores/midea-slimpure.webp' | relative_url }}" alt="Purificador Midea SlimPure Bivolt Cinza">
+  <img src="{{ '/assets/img/purificadores/midea-slimpure.webp' | relative_url }}" alt="Purificador de Água Midea SlimPure Preto Bivolt" width="220" height="220" loading="lazy">
   <h3>Midea SlimPure</h3>
 </div>
 
 <ul class="lista-pontos">
-  <li>✅ <strong>Ultra compacto:</strong> ocupa pouquíssimo espaço e cabe em qualquer cantinho.</li>
-  <li>✅ <strong>Pode instalar na parede:</strong> libera 100% da bancada da sua pia.</li>
-  <li>✅ <strong>Enchimento automático:</strong> aperte 1 vez e encha jarras sem precisar segurar o botão.</li>
-  <li>⚠️ <em>Como é modelo eletrônico, a água sai fresca e atende bem 1 ou 2 pessoas.</em></li>
+  <li>✅ <strong>Ultra compacto:</strong> ocupa pouquíssimo espaço na pia ou na parede.</li>
+  <li>✅ <strong>Fluxo contínuo:</strong> enche garrafas e jarras com 1 toque sem segurar.</li>
+  <li>✅ <strong>Bivolt automático:</strong> funciona em qualquer tomada sem risco.</li>
+  <li>✅ <strong>Excelente custo-benefício:</strong> menor valor de entrada e refil barato.</li>
+  <li>⚠️ <em>Refrigeração eletrônica (água fresca, ideal para 1 a 2 pessoas).</em></li>
 </ul>
+
+<div class="trust-row">
+  <span class="trust-item">⭐ Loja Oficial</span>
+  <span class="trust-item">📦 Frete Rápido Full</span>
+  <span class="trust-item">🔒 Compra Segura</span>
+</div>
 
 <a class="btn-meli" href="https://meli.la/1H46Pjk" target="_blank" rel="sponsored noopener nofollow">
   Ver Midea SlimPure no Mercado Livre →
+  <span>Confira o menor preço com garantia oficial</span>
 </a>
 
 </div>
@@ -265,20 +188,28 @@ image: "/assets/img/purificadores/midea-slimpure-vs-electrolux-pe12g-capa.webp"
 <div class="card-prod electrolux" markdown="1">
 
 <div style="text-align: center;">
-  <span class="selo-tag grafite">Melhor em Fluxo Rápido e Design Grafite</span>
-  <img src="{{ '/assets/img/purificadores/electrolux-pe12g.webp' | relative_url }}" alt="Purificador de Água Electrolux Touch PE12G Grafite">
+  <span class="selo-tag grafite">Melhor em Vazão Rápida e Design Grafite</span>
+  <img src="{{ '/assets/img/purificadores/electrolux-pe12g.webp' | relative_url }}" alt="Purificador de Água Touch Electrolux PE12G Grafite" width="220" height="220" loading="lazy">
   <h3>Electrolux PE12G</h3>
 </div>
 
 <ul class="lista-pontos">
-  <li>✅ <strong>Tecnologia Powerjet:</strong> fluxo pressurizado que enche copos muito rápido.</li>
-  <li>✅ <strong>Cor Grafite Premium:</strong> visual moderno e sofisticado (também disponível em outras cores).</li>
-  <li>✅ <strong>Instalação Versátil:</strong> pronto para uso na bancada ou fixado na parede.</li>
-  <li>⚠️ <em>Por ter refrigeração eletrônica, a água sai fresca (15 °C) e atende melhor 1 ou 2 pessoas.</em></li>
+  <li>✅ <strong>Tecnologia Powerjet:</strong> enche copos até 4x mais rápido do que a média.</li>
+  <li>✅ <strong>Cor Grafite Premium:</strong> visual moderno e elegante que não amarela.</li>
+  <li>✅ <strong>Painel Touch Inteligente:</strong> alerta você da hora certa de trocar o filtro.</li>
+  <li>✅ <strong>Bancada ou Parede:</strong> suporte completo para instalar onde preferir.</li>
+  <li>⚠️ <em>Refrigeração eletrônica (água fresca, ideal para 1 a 2 pessoas).</em></li>
 </ul>
+
+<div class="trust-row">
+  <span class="trust-item">⭐ Loja Oficial</span>
+  <span class="trust-item">📦 Frete Rápido Full</span>
+  <span class="trust-item">🔒 Compra Segura</span>
+</div>
 
 <a class="btn-meli" href="https://meli.la/17PDFnC" target="_blank" rel="sponsored noopener nofollow">
   Ver Electrolux PE12G no Mercado Livre →
+  <span>Confira o menor preço com garantia oficial</span>
 </a>
 
 </div>
@@ -287,41 +218,139 @@ image: "/assets/img/purificadores/midea-slimpure-vs-electrolux-pe12g-capa.webp"
 
 ---
 
-## Dúvidas Mais Comuns
+## Dúvidas Mais Comuns (FAQ)
 
 <div class="faq-simples">
-  <strong>1. Eles podem ser instalados na parede?</strong>
-  Sim! Tanto o Midea SlimPure quanto o Electrolux PE12G contam com suporte para fixação na parede ou uso apoiado na bancada da pia, liberando espaço útil na sua cozinha.
+  <strong>1. O Midea SlimPure e o Electrolux PE12G podem ser instalados na parede?</strong>
+  Sim! Ambos os modelos contam com furação e suporte dedicado para fixação segura na parede, além de poderem ser usados normalmente apoiados sobre a bancada da pia.
 </div>
 
 <div class="faq-simples">
   <strong>2. O que é a tecnologia Powerjet do Electrolux PE12G?</strong>
-  É um sistema que melhora a vazão de saída da água, enchendo o copo até 4x mais rápido do que purificadores eletrônicos comuns, mesmo com pressão normal da rede.
+  É um sistema exclusivo da Electrolux que pressuriza o fluxo de saída da água, permitindo encher o copo até 4 vezes mais rápido do que purificadores eletrônicos convencionais, economizando seu tempo na cozinha.
 </div>
 
 <div class="faq-simples">
-  <strong>3. Os dois são bivolt?</strong>
-  Sim, tanto o Midea SlimPure quanto o Electrolux PE12G são bivolt automáticos (100V a 240V), funcionando perfeitamente em qualquer tomada sem risco de queimar.
+  <strong>3. Os dois purificadores são bivolt?</strong>
+  Sim, tanto o Midea SlimPure quanto o Electrolux PE12G operam em sistema bivolt automático (100V a 240V). Você pode ligá-los em qualquer tomada sem se preocupar com a voltagem da sua casa.
+</div>
+
+<div class="faq-simples">
+  <strong>4. De quanto em quanto tempo é necessário trocar o filtro/refil?</strong>
+  A recomendação dos fabricantes é realizar a troca a cada 6 meses de uso ou a cada 3.000 litros de água filtrada (o que ocorrer primeiro). A troca é rápida, não necessita de técnico e ambos os aparelhos avisam no painel quando o refil está no fim.
+</div>
+
+<div class="card-relacionado">
+  <div>
+    <h4>Procura água super gelada para famílias maiores?</h4>
+    <p>Conheça o comparativo entre o purificador por compressor Consul CPB33 e o Electrolux PE11X.</p>
+  </div>
+  <a class="btn-secundario" href="{{ '/purificadores/consul-cpb33-vs-electrolux-pe11x' | relative_url }}">
+    Ver Comparativo Consul vs PE11X →
+  </a>
 </div>
 
 </div>
 
-<!-- Schema JSON-LD para o Google -->
+<!-- Schema JSON-LD Otimizado para o Google (Rich Snippets & FAQPage) -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@type": "Article",
+      "headline": "Midea SlimPure ou Electrolux PE12G: Qual Comprar em 2026? Comparativo Rápido",
+      "description": "Comparativo completo entre os purificadores Midea SlimPure e Electrolux PE12G. Veja tamanho, vazão Powerjet, ruído e economia.",
+      "image": "{{ '/assets/img/purificadores/midea-slimpure-vs-electrolux-pe12g-capa.webp' | absolute_url }}",
+      "datePublished": "2026-03-30",
+      "dateModified": "2026-03-30",
+      "author": {
+        "@type": "Organization",
+        "name": "Guia do Comprador"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Guia do Comprador",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ '/assets/img/logos/logo-opcao-2.png' | absolute_url }}"
+        }
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "O Midea SlimPure e o Electrolux PE12G podem ser instalados na parede?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim! Ambos os modelos contam com furação e suporte dedicado para fixação segura na parede, além de poderem ser usados normalmente apoiados sobre a bancada da pia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "O que é a tecnologia Powerjet do Electrolux PE12G?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "É um sistema exclusivo da Electrolux que pressuriza o fluxo de saída da água, permitindo encher o copo até 4 vezes mais rápido do que purificadores eletrônicos convencionais."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Os dois purificadores são bivolt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim, tanto o Midea SlimPure quanto o Electrolux PE12G operam em sistema bivolt automático (100V a 240V), funcionando em qualquer tomada."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "De quanto em quanto tempo é necessário trocar o filtro/refil?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A recomendação é realizar a troca a cada 6 meses de uso ou a cada 3.000 litros de água filtrada. A troca é rápida e ambos os aparelhos avisam no painel."
+          }
+        }
+      ]
+    },
+    {
       "@type": "Product",
       "name": "Purificador Midea SlimPure Bivolt",
       "image": "{{ '/assets/img/purificadores/midea-slimpure.webp' | absolute_url }}",
-      "description": "Purificador ultra compacto bivolt Midea SlimPure para bancada ou parede."
+      "description": "Purificador de água ultra compacto bivolt Midea SlimPure com fluxo contínuo para bancada ou parede.",
+      "brand": {
+        "@type": "Brand",
+        "name": "Midea"
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "BRL",
+        "lowPrice": "379.00",
+        "highPrice": "499.00",
+        "offerCount": "10",
+        "availability": "https://schema.org/InStock",
+        "url": "https://meli.la/1H46Pjk"
+      }
     },
     {
       "@type": "Product",
       "name": "Purificador Electrolux PE12G Grafite Bivolt",
       "image": "{{ '/assets/img/purificadores/electrolux-pe12g.webp' | absolute_url }}",
-      "description": "Purificador de água touch bivolt Electrolux PE12G com tecnologia Powerjet."
+      "description": "Purificador de água touch bivolt Electrolux PE12G Grafite com tecnologia de fluxo rápido Powerjet.",
+      "brand": {
+        "@type": "Brand",
+        "name": "Electrolux"
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "BRL",
+        "lowPrice": "429.00",
+        "highPrice": "589.00",
+        "offerCount": "10",
+        "availability": "https://schema.org/InStock",
+        "url": "https://meli.la/17PDFnC"
+      }
     }
   ]
 }

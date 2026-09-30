@@ -1,3 +1,16 @@
 theme: minima
 title: "Guia do Comprador"
-description: "Comparativos técnicos diretos e análises para compras inteligentes."
+tagline: "Comparativos honestos e análises técnicas diretas ao ponto"
+description: "Comparativos técnicos diretos e análises de produtos para ajudar você a decidir a melhor compra com o melhor preço."
+lang: "pt-BR"
+timezone: "America/Sao_Paulo"
+url: "https://wstorres.github.io"
+baseurl: "/guiadocomprador"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+author:
+  name: "Redação Guia do Comprador"
+  email: "contato@guiadocomprador.com"

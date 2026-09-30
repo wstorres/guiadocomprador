@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wstorres.github.io/guiadocomprador/sitemap.xml
