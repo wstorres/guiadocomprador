@@ -235,7 +235,7 @@ Para evitar falsificações ou revendedores não autorizados, compre sempre por 
     <strong>📦 Já possui o Electrolux PE12G e só precisa trocar o filtro?</strong>
     <div>O refil original <em>Acqua Pure</em> deve ser trocado a cada 6 meses para garantir a retenção de cloro e odores.</div>
   </div>
-  <a class="box-refil-recorrente-btn" href="https://meli.la/17PDFnC" target="_blank" rel="sponsored noopener nofollow">
+  <a class="box-refil-recorrente-btn" href="https://meli.la/1SRZ9A2" target="_blank" rel="sponsored noopener nofollow">
     Ver Refil Acqua Pure no Mercado Livre →
   </a>
 </div>

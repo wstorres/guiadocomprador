@@ -234,7 +234,7 @@ Recomendamos sempre a compra por meio de canais oficiais e lojas verificadas com
     <strong>📦 Já possui o Midea SlimPure e só precisa do refil de reposição?</strong>
     <div>O refil oficial de carvão ativado garante água sempre pura e custa muito pouco no Mercado Livre.</div>
   </div>
-  <a class="box-refil-recorrente-btn" href="https://meli.la/1H46Pjk" target="_blank" rel="sponsored noopener nofollow">
+  <a class="box-refil-recorrente-btn" href="https://meli.la/2pdb5K5" target="_blank" rel="sponsored noopener nofollow">
     Ver Refil Midea SlimPure no Mercado Livre →
   </a>
 </div>

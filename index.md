@@ -97,6 +97,46 @@ description: "Encontre os melhores produtos com comparativos técnicos imparciai
     </div>
   </article>
 
+  <article class="card-artigo">
+    <a href="{{ '/purificadores/quando-trocar-filtro-do-purificador-guia-refis' | relative_url }}">
+      <img class="card-artigo-thumb" src="{{ '/assets/img/purificadores/quando-trocar-filtro-guia-capa.jpg' | relative_url }}" alt="Guia de quando trocar o filtro do purificador" loading="lazy">
+    </a>
+    <div class="card-artigo-body">
+      <div>
+        <span class="badge-categoria">Saúde & Manutenção</span>
+        <h3>
+          <a href="{{ '/purificadores/quando-trocar-filtro-do-purificador-guia-refis' | relative_url }}" style="color: #0f172a; text-decoration: none;">
+            Quando Trocar o Filtro do Purificador? Guia Definitivo (2026)
+          </a>
+        </h3>
+        <p>Os 5 sinais de refil vencido, riscos de água com cloro e tabela dos refis originais mais vendidos Electrolux, Midea e Consul.</p>
+      </div>
+      <a class="btn-ler" href="{{ '/purificadores/quando-trocar-filtro-do-purificador-guia-refis' | relative_url }}">
+        Ler guia de manutenção →
+      </a>
+    </div>
+  </article>
+
+  <article class="card-artigo">
+    <a href="{{ '/purificadores/refil-acqua-pure-electrolux-original' | relative_url }}">
+      <img class="card-artigo-thumb" src="{{ '/assets/img/purificadores/refil-acqua-pure-original-capa.jpg' | relative_url }}" alt="Refil Acqua Pure Electrolux Original" loading="lazy">
+    </a>
+    <div class="card-artigo-body">
+      <div>
+        <span class="badge-categoria">Filtros & Refis</span>
+        <h3>
+          <a href="{{ '/purificadores/refil-acqua-pure-electrolux-original' | relative_url }}" style="color: #0f172a; text-decoration: none;">
+            Refil Acqua Pure Electrolux: Como Identificar o Original?
+          </a>
+        </h3>
+        <p>Evite réplicas que vazam: conheça os 3 sinais do refil autêntico, passo a passo para trocar em 1 minuto e onde comprar mais barato.</p>
+      </div>
+      <a class="btn-ler" href="{{ '/purificadores/refil-acqua-pure-electrolux-original' | relative_url }}">
+        Ver guia do refil original →
+      </a>
+    </div>
+  </article>
+
 </div>
 
 ---

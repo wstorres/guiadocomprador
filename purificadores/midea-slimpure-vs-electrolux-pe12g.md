@@ -270,12 +270,17 @@ Tanto o Midea SlimPure quanto o Electrolux PE12G utilizam **refrigeração por p
 
 <div class="box-refil-recorrente">
   <div class="box-refil-recorrente-texto">
-    <strong>📦 Já possui um desses modelos e precisa de refil de reposição?</strong>
-    <div>Compre refis originais em kits com desconto e frete grátis no Mercado Livre oficial.</div>
+    <strong>📦 Já possui um desses modelos e precisa apenas do refil de reposição?</strong>
+    <div>Compre os refis originais em lojas oficiais no Mercado Livre com envio rápido Full:</div>
   </div>
-  <a class="box-refil-recorrente-btn" href="https://meli.la/17PDFnC" target="_blank" rel="sponsored noopener nofollow">
-    Ver Refis Originais no Mercado Livre →
-  </a>
+  <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+    <a class="box-refil-recorrente-btn" href="https://meli.la/2pdb5K5" target="_blank" rel="sponsored noopener nofollow">
+      Ver Refil Midea SlimPure →
+    </a>
+    <a class="box-refil-recorrente-btn" href="https://meli.la/1SRZ9A2" target="_blank" rel="sponsored noopener nofollow">
+      Ver Refil Electrolux Acqua Pure →
+    </a>
+  </div>
 </div>
 
 <div class="salvar-pagina-bar">
