@@ -9,14 +9,34 @@ date: 2026-03-30
 
 <div class="guia-wrap" markdown="1">
 
+<nav class="breadcrumb-nav" aria-label="Trilha de navegação">
+  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <a itemprop="item" href="{{ '/' | relative_url }}"><span itemprop="name">Início</span></a>
+      <meta itemprop="position" content="1" />
+    </li>
+    <span class="breadcrumb-sep">/</span>
+    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <a itemprop="item" href="{{ '/' | relative_url }}#purificadores"><span itemprop="name">Purificadores</span></a>
+      <meta itemprop="position" content="2" />
+    </li>
+    <span class="breadcrumb-sep">/</span>
+    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <span class="breadcrumb-current" itemprop="name">Consul CPB33 vs Electrolux PE11X</span>
+      <meta itemprop="position" content="3" />
+    </li>
+  </ol>
+</nav>
+
 <div class="artigo-meta">
   <span class="badge-categoria">Purificadores de Água</span>
   <span>📅 Atualizado em 2026</span>
   <span>⏱️ Leitura: 3 minutos</span>
   <span>🛡️ Testes & Comparativo Técnico</span>
+  <span>✍️ Por Equipe Guia do Comprador</span>
 </div>
 
-## Purificador de Água Consul CPB33 ou Electrolux PE11X: Qual o Melhor?
+# Purificador de Água Consul CPB33 ou Electrolux PE11X: Qual Escolher em 2026? Comparativo Rápido
 
 <p class="lead-paragrafo">
 Está em dúvida entre o <strong>Consul CPB33</strong> e o <strong>Electrolux PE11X</strong>? O grande segredo dessa escolha está na tecnologia de refrigeração: motor com <strong>compressor potente</strong> vs placa eletrônica silenciosa e compacta. Veja o resumo prático abaixo para decidir em segundos.

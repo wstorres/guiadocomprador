@@ -6,6 +6,7 @@ lang: "pt-BR"
 timezone: "America/Sao_Paulo"
 url: "https://wstorres.github.io"
 baseurl: "/guiadocomprador"
+permalink: pretty
 
 plugins:
   - jekyll-seo-tag

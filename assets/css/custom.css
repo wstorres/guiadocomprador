@@ -699,5 +699,44 @@ body {
   line-height: 1.45 !important;
 }
 
+/* Breadcrumb SEO */
+.breadcrumb-nav {
+  margin-bottom: 16px;
+  font-size: 0.85rem;
+}
+.breadcrumb-nav ol {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  gap: 6px;
+  color: #64748b;
+}
+.breadcrumb-nav li {
+  display: inline-flex;
+  align-items: center;
+}
+.breadcrumb-nav li a {
+  color: #0284c7;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.15s ease;
+}
+.breadcrumb-nav li a:hover {
+  color: #0369a1;
+  text-decoration: underline;
+}
+.breadcrumb-sep {
+  color: #94a3b8;
+  font-size: 0.8rem;
+  margin: 0 4px;
+}
+.breadcrumb-current {
+  color: #475569;
+  font-weight: 600;
+}
+
 
 

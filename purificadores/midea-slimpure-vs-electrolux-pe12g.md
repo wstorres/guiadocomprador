@@ -9,14 +9,34 @@ date: 2026-03-30
 
 <div class="guia-wrap" markdown="1">
 
+<nav class="breadcrumb-nav" aria-label="Trilha de navegação">
+  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <a itemprop="item" href="{{ '/' | relative_url }}"><span itemprop="name">Início</span></a>
+      <meta itemprop="position" content="1" />
+    </li>
+    <span class="breadcrumb-sep">/</span>
+    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <a itemprop="item" href="{{ '/' | relative_url }}#purificadores"><span itemprop="name">Purificadores</span></a>
+      <meta itemprop="position" content="2" />
+    </li>
+    <span class="breadcrumb-sep">/</span>
+    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <span class="breadcrumb-current" itemprop="name">Midea SlimPure vs Electrolux PE12G</span>
+      <meta itemprop="position" content="3" />
+    </li>
+  </ol>
+</nav>
+
 <div class="artigo-meta">
   <span class="badge-categoria">Purificadores de Água</span>
   <span>📅 Atualizado em 2026</span>
   <span>⏱️ Leitura: 3 minutos</span>
   <span>🛡️ Testes & Comparativo Técnico</span>
+  <span>✍️ Por Equipe Guia do Comprador</span>
 </div>
 
-## Purificador de Água Midea SlimPure ou Electrolux PE12G: Qual Escolher? Comparativo Rápido
+# Purificador de Água Midea SlimPure ou Electrolux PE12G: Qual Comprar em 2026? Comparativo Técnico
 
 <p class="lead-paragrafo">
 Está em dúvida entre o <strong>Midea SlimPure</strong> e o <strong>Electrolux PE12G</strong>? Ambos são os purificadores bivolt mais procurados para quem tem cozinha compacta e precisa de instalação versátil na bancada ou na parede. Comparamos os pontos decisivos de vazão, refrigeração e custo-benefício para você escolher o modelo ideal em menos de 1 minuto.
@@ -155,7 +175,7 @@ Tanto o Midea SlimPure quanto o Electrolux PE12G utilizam **refrigeração por p
 
 * **Como funciona na prática:** Eles entregam água refrescante (em torno de 13 °C a 15 °C), ideal para o dia a dia de 1 a 2 pessoas.
 * **Vantagens:** São extremamente silenciosos (sem o zumbido de motor compressor), não vibram na parede e consomem pouquíssima energia elétrica (bivolt automático).
-* **Atenção:** Se a sua casa tem 4 ou mais pessoas que consomem litros de água geladíssima (estilo geladeira) simultaneamente no calor intenso, um purificador com compressor (como o Consul CPB33) será mais indicado. Para 1 a 2 pessoas e consumo moderado, o Midea e o Electrolux atendem com perfeição.
+* **Atenção:** Se a sua casa tem 4 ou mais pessoas que consomem litros de água geladíssima (estilo geladeira) simultaneamente no calor intenso, um purificador com compressor (como o [Consul CPB33]({{ '/purificadores/consul-cpb33-vs-electrolux-pe11x' | relative_url }})) será mais indicado. Para 1 a 2 pessoas e consumo moderado, o Midea e o Electrolux atendem com perfeição.
 
 ---
 
