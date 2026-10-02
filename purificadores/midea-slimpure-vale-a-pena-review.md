@@ -5,6 +5,11 @@ description: "Análise completa do purificador Midea SlimPure: largura de 16,4 c
 keywords: "midea slimpure é bom, midea slimpure vale a pena, purificador de agua midea slimpure bivolt, midea slimpure review, melhor purificador ultra slim"
 image: "/assets/img/purificadores/midea-slimpure-review-capa.jpg"
 date: 2026-03-30
+sticky_cta:
+  title: "Midea SlimPure Bivolt"
+  subtitle: "Loja Oficial no Mercado Livre • Frete Full"
+  url: "https://meli.la/1H46Pjk"
+  button_text: "Ver Oferta →"
 ---
 
 <div class="guia-wrap" markdown="1">
@@ -199,7 +204,10 @@ Recomendamos sempre a compra por meio de canais oficiais e lojas verificadas com
 
 <div style="text-align: center;">
   <span class="selo-tag">Melhor Custo-Benefício Ultra Slim</span>
-  <img src="{{ '/assets/img/purificadores/midea-slimpure.webp' | relative_url }}" alt="Purificador Midea SlimPure Preto Bivolt" width="220" height="220" loading="lazy">
+  <a class="foto-produto-link" href="https://meli.la/1H46Pjk" target="_blank" rel="sponsored noopener nofollow" title="Toque para ver fotos e preço oficial no Mercado Livre">
+    <img src="{{ '/assets/img/purificadores/midea-slimpure.webp' | relative_url }}" alt="Purificador Midea SlimPure Preto Bivolt" width="220" height="220" loading="lazy">
+    <span class="foto-badge-toque">🔍 Toque para ver preço e kits no Mercado Livre</span>
+  </a>
   <h3>Midea SlimPure Bivolt</h3>
   <p style="color: #64748b; font-size: 0.9rem;">Ultra compacto (16,4 cm) + Fluxo Contínuo + Bancada ou Parede</p>
 </div>
@@ -215,6 +223,20 @@ Recomendamos sempre a compra por meio de canais oficiais e lojas verificadas com
   <span>Confira o menor valor com frete rápido e garantia</span>
 </a>
 
+<a class="link-opcoes-meli" href="https://meli.la/1H46Pjk" target="_blank" rel="sponsored noopener nofollow">
+  📦 <strong>Deseja economizar com kit?</strong> Veja opções do Midea SlimPure com Refil Extra incluso no Mercado Livre →
+</a>
+
+</div>
+
+<div class="box-refil-recorrente">
+  <div class="box-refil-recorrente-texto">
+    <strong>📦 Já possui o Midea SlimPure e só precisa do refil de reposição?</strong>
+    <div>O refil oficial de carvão ativado garante água sempre pura e custa muito pouco no Mercado Livre.</div>
+  </div>
+  <a class="box-refil-recorrente-btn" href="https://meli.la/1H46Pjk" target="_blank" rel="sponsored noopener nofollow">
+    Ver Refil Midea SlimPure no Mercado Livre →
+  </a>
 </div>
 
 ---

@@ -738,5 +738,192 @@ body {
   font-weight: 600;
 }
 
+/* ========================================================
+   ESTRATÉGIA EFEITO HALO - ALTA TAXA DE CLIQUES (CTR)
+   ======================================================== */
+
+/* 1. Fotos de Produtos Clicáveis */
+.foto-produto-link {
+  display: inline-block;
+  position: relative;
+  text-decoration: none;
+  cursor: pointer;
+  transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.foto-produto-link:hover {
+  transform: translateY(-2px) scale(1.02);
+}
+.foto-badge-toque {
+  display: block;
+  margin-top: 6px;
+  font-size: 0.72rem;
+  color: #0284c7;
+  font-weight: 600;
+  text-decoration: underline;
+  text-align: center;
+}
+
+/* 2. Gatilhos de Cores, Voltagens e Kits */
+.link-opcoes-meli {
+  display: block;
+  text-align: center;
+  margin: 10px auto 0;
+  font-size: 0.82rem;
+  color: #475569;
+  text-decoration: none;
+  line-height: 1.4;
+  padding: 4px 8px;
+  border-radius: 6px;
+  transition: all 0.15s ease;
+}
+.link-opcoes-meli strong {
+  color: #0369a1;
+}
+.link-opcoes-meli:hover {
+  color: #0284c7;
+  background: #f0f9ff;
+  text-decoration: underline;
+}
+
+/* 3. Caixa de Refil / Reposição Recorrente */
+.box-refil-recorrente {
+  background: #f8fafc;
+  border: 1px dashed #cbd5e1;
+  border-radius: 12px;
+  padding: 14px 18px;
+  margin: 24px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  flex-wrap: wrap;
+}
+.box-refil-recorrente-texto {
+  flex: 1;
+  min-width: 220px;
+  font-size: 0.88rem;
+  color: #334155;
+  line-height: 1.45;
+}
+.box-refil-recorrente-texto strong {
+  color: #0f172a;
+}
+.box-refil-recorrente-btn {
+  background: #ffffff;
+  border: 1px solid #0284c7;
+  color: #0284c7 !important;
+  font-weight: 700;
+  font-size: 0.82rem;
+  padding: 8px 14px;
+  border-radius: 8px;
+  text-decoration: none !important;
+  white-space: nowrap;
+  transition: all 0.15s ease;
+}
+.box-refil-recorrente-btn:hover {
+  background: #0284c7;
+  color: #ffffff !important;
+}
+
+/* 4. Barra Fixa Flutuante no Mobile (Sticky CTA) */
+.sticky-cta-mobile {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .sticky-cta-mobile {
+    display: block;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.98);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-top: 1px solid #e2e8f0;
+    box-shadow: 0 -4px 16px rgba(0, 0, 0, 0.08);
+    padding: 9px 14px;
+    z-index: 9999;
+    transform: translateY(110%);
+    transition: transform 0.28s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .sticky-cta-mobile.visible {
+    transform: translateY(0);
+  }
+
+  .sticky-cta-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  .sticky-cta-info {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    flex: 1;
+  }
+
+  .sticky-cta-title {
+    font-size: 0.84rem;
+    font-weight: 700;
+    color: #0f172a;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 1.2;
+  }
+
+  .sticky-cta-subtitle {
+    font-size: 0.72rem;
+    color: #16a34a;
+    font-weight: 600;
+    line-height: 1.2;
+    margin-top: 2px;
+  }
+
+  .sticky-cta-btn {
+    background: linear-gradient(135deg, #ffe600 0%, #ffd000 100%);
+    color: #2d3277 !important;
+    font-weight: 800;
+    font-size: 0.82rem;
+    padding: 8px 14px;
+    border-radius: 8px;
+    text-decoration: none !important;
+    white-space: nowrap;
+    box-shadow: 0 2px 8px rgba(255, 208, 0, 0.4);
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    border: 1px solid rgba(0, 0, 0, 0.06);
+  }
+
+  .sticky-cta-btn-dual {
+    display: flex;
+    gap: 6px;
+  }
+
+  .sticky-cta-btn-mini {
+    background: #0284c7;
+    color: #ffffff !important;
+    font-weight: 700;
+    font-size: 0.75rem;
+    padding: 7px 10px;
+    border-radius: 6px;
+    text-decoration: none !important;
+    white-space: nowrap;
+  }
+
+  .sticky-cta-btn-mini.meli {
+    background: linear-gradient(135deg, #ffe600 0%, #ffd000 100%);
+    color: #2d3277 !important;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+  }
+}
+
 
 

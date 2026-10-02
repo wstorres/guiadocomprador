@@ -9,5 +9,36 @@
       </div>
     </main>
     {%- include footer.html -%}
+
+    {%- if page.sticky_cta -%}
+    <div class="sticky-cta-mobile" id="stickyCtaMobile">
+      <div class="sticky-cta-content">
+        <div class="sticky-cta-info">
+          <span class="sticky-cta-title">{{ page.sticky_cta.title }}</span>
+          <span class="sticky-cta-subtitle">⚡ {{ page.sticky_cta.subtitle | default: "Menor preço verificado no Mercado Livre" }}</span>
+        </div>
+        <a class="sticky-cta-btn" href="{{ page.sticky_cta.url }}" target="_blank" rel="sponsored noopener nofollow">
+          {{ page.sticky_cta.button_text | default: "Ver Oferta →" }}
+        </a>
+      </div>
+    </div>
+    {%- elsif page.sticky_cta_dual -%}
+    <div class="sticky-cta-mobile" id="stickyCtaMobile">
+      <div class="sticky-cta-content">
+        <div class="sticky-cta-info">
+          <span class="sticky-cta-title">{{ page.sticky_cta_dual.title }}</span>
+          <span class="sticky-cta-subtitle">⚡ {{ page.sticky_cta_dual.subtitle | default: "Melhores preços no Mercado Livre" }}</span>
+        </div>
+        <div class="sticky-cta-btn-dual">
+          <a class="sticky-cta-btn-mini meli" href="{{ page.sticky_cta_dual.btn1_url }}" target="_blank" rel="sponsored noopener nofollow">
+            {{ page.sticky_cta_dual.btn1_text }}
+          </a>
+          <a class="sticky-cta-btn-mini meli" href="{{ page.sticky_cta_dual.btn2_url }}" target="_blank" rel="sponsored noopener nofollow">
+            {{ page.sticky_cta_dual.btn2_text }}
+          </a>
+        </div>
+      </div>
+    </div>
+    {%- endif -%}
   </body>
 </html>

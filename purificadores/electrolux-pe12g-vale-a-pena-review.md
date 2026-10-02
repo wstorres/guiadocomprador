@@ -5,6 +5,11 @@ description: "Análise completa do purificador Electrolux PE12G Grafite: vazão 
 keywords: "electrolux pe12g é bom, electrolux pe12g vale a pena, purificador electrolux pe12g grafite, refil acquapure electrolux, purificador electrolux pe12g review"
 image: "/assets/img/purificadores/electrolux-pe12g-review-capa.jpg"
 date: 2026-03-30
+sticky_cta:
+  title: "Electrolux PE12G Grafite Bivolt"
+  subtitle: "Loja Oficial no Mercado Livre • Frete Full"
+  url: "https://meli.la/17PDFnC"
+  button_text: "Ver Oferta →"
 ---
 
 <div class="guia-wrap" markdown="1">
@@ -200,7 +205,10 @@ Para evitar falsificações ou revendedores não autorizados, compre sempre por 
 
 <div style="text-align: center;">
   <span class="selo-tag grafite">Oferta Verificada</span>
-  <img src="{{ '/assets/img/purificadores/electrolux-pe12g.webp' | relative_url }}" alt="Purificador de Água Electrolux PE12G Grafite" width="220" height="220" loading="lazy">
+  <a class="foto-produto-link" href="https://meli.la/17PDFnC" target="_blank" rel="sponsored noopener nofollow" title="Toque para ver fotos e preço oficial no Mercado Livre">
+    <img src="{{ '/assets/img/purificadores/electrolux-pe12g.webp' | relative_url }}" alt="Purificador de Água Electrolux PE12G Grafite" width="220" height="220" loading="lazy">
+    <span class="foto-badge-toque">🔍 Toque para ver preço e cores no Mercado Livre</span>
+  </a>
   <h3>Electrolux PE12G Grafite Bivolt</h3>
   <p style="color: #64748b; font-size: 0.9rem;">Tecnologia Powerjet + Painel Touch + Filtro Acqua Pure</p>
 </div>
@@ -216,6 +224,20 @@ Para evitar falsificações ou revendedores não autorizados, compre sempre por 
   <span>Confira o menor valor à vista ou parcelado sem juros</span>
 </a>
 
+<a class="link-opcoes-meli" href="https://meli.la/17PDFnC" target="_blank" rel="sponsored noopener nofollow">
+  🎨 <strong>Deseja outra cor ou kit?</strong> Veja opções em Branco, Inox e Kits com Refil Extra no Mercado Livre →
+</a>
+
+</div>
+
+<div class="box-refil-recorrente">
+  <div class="box-refil-recorrente-texto">
+    <strong>📦 Já possui o Electrolux PE12G e só precisa trocar o filtro?</strong>
+    <div>O refil original <em>Acqua Pure</em> deve ser trocado a cada 6 meses para garantir a retenção de cloro e odores.</div>
+  </div>
+  <a class="box-refil-recorrente-btn" href="https://meli.la/17PDFnC" target="_blank" rel="sponsored noopener nofollow">
+    Ver Refil Acqua Pure no Mercado Livre →
+  </a>
 </div>
 
 ---

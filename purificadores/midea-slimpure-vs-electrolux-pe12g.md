@@ -5,6 +5,13 @@ description: "Midea SlimPure é bom? Electrolux PE12G vale a pena? Compare fluxo
 keywords: "midea slimpure é bom, electrolux pe12g vale a pena, midea slimpure vs electrolux pe12g, melhor purificador compacto bivolt, purificador de água de parede"
 image: "/assets/img/purificadores/midea-slimpure-vs-electrolux-pe12g-capa.webp"
 date: 2026-03-30
+sticky_cta_dual:
+  title: "Midea SlimPure vs Electrolux PE12G"
+  subtitle: "Menores preços oficiais no Mercado Livre"
+  btn1_text: "Ver Midea"
+  btn1_url: "https://meli.la/1H46Pjk"
+  btn2_text: "Ver Electrolux"
+  btn2_url: "https://meli.la/17PDFnC"
 ---
 
 <div class="guia-wrap" markdown="1">
@@ -191,7 +198,10 @@ Tanto o Midea SlimPure quanto o Electrolux PE12G utilizam **refrigeração por p
 
 <div style="text-align: center;">
   <span class="selo-tag">Melhor para Espaço Mínimo e Parede</span>
-  <img src="{{ '/assets/img/purificadores/midea-slimpure.webp' | relative_url }}" alt="Purificador de Água Midea SlimPure Preto Bivolt" width="220" height="220" loading="lazy">
+  <a class="foto-produto-link" href="https://meli.la/1H46Pjk" target="_blank" rel="sponsored noopener nofollow" title="Toque para ver fotos e preço oficial no Mercado Livre">
+    <img src="{{ '/assets/img/purificadores/midea-slimpure.webp' | relative_url }}" alt="Purificador de Água Midea SlimPure Preto Bivolt" width="220" height="220" loading="lazy">
+    <span class="foto-badge-toque">🔍 Toque para ver preço no Mercado Livre</span>
+  </a>
   <h3>Midea SlimPure</h3>
 </div>
 
@@ -214,13 +224,20 @@ Tanto o Midea SlimPure quanto o Electrolux PE12G utilizam **refrigeração por p
   <span>Confira o menor preço com garantia oficial</span>
 </a>
 
+<a class="link-opcoes-meli" href="https://meli.la/1H46Pjk" target="_blank" rel="sponsored noopener nofollow">
+  📦 <strong>Deseja economizar com kit?</strong> Veja opções do Midea SlimPure com Refil Extra incluso no Mercado Livre →
+</a>
+
 </div>
 
 <div class="card-prod electrolux" markdown="1">
 
 <div style="text-align: center;">
   <span class="selo-tag grafite">Melhor em Vazão Rápida e Design Grafite</span>
-  <img src="{{ '/assets/img/purificadores/electrolux-pe12g.webp' | relative_url }}" alt="Purificador de Água Touch Electrolux PE12G Grafite" width="220" height="220" loading="lazy">
+  <a class="foto-produto-link" href="https://meli.la/17PDFnC" target="_blank" rel="sponsored noopener nofollow" title="Toque para ver fotos e preço oficial no Mercado Livre">
+    <img src="{{ '/assets/img/purificadores/electrolux-pe12g.webp' | relative_url }}" alt="Purificador de Água Touch Electrolux PE12G Grafite" width="220" height="220" loading="lazy">
+    <span class="foto-badge-toque">🔍 Toque para ver preço e cores no Mercado Livre</span>
+  </a>
   <h3>Electrolux PE12G</h3>
 </div>
 
@@ -243,8 +260,22 @@ Tanto o Midea SlimPure quanto o Electrolux PE12G utilizam **refrigeração por p
   <span>Confira o menor preço com garantia oficial</span>
 </a>
 
+<a class="link-opcoes-meli" href="https://meli.la/17PDFnC" target="_blank" rel="sponsored noopener nofollow">
+  🎨 <strong>Deseja outra cor ou kit?</strong> Veja opções em Branco, Inox e Kits com Refil Extra no Mercado Livre →
+</a>
+
 </div>
 
+</div>
+
+<div class="box-refil-recorrente">
+  <div class="box-refil-recorrente-texto">
+    <strong>📦 Já possui um desses modelos e precisa de refil de reposição?</strong>
+    <div>Compre refis originais em kits com desconto e frete grátis no Mercado Livre oficial.</div>
+  </div>
+  <a class="box-refil-recorrente-btn" href="https://meli.la/17PDFnC" target="_blank" rel="sponsored noopener nofollow">
+    Ver Refis Originais no Mercado Livre →
+  </a>
 </div>
 
 <div class="salvar-pagina-bar">

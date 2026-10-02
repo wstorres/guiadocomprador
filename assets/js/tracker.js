@@ -70,4 +70,20 @@
       alert('⭐ Para não perder esta página e consultar os preços depois:\n\nPressione ' + atalho + ' no seu teclado (ou clique na estrela da barra de endereço) para salvar nos Favoritos!');
     }
   };
+
+  // 5. Ativação suave da barra Sticky CTA no Mobile após rolar 320px
+  document.addEventListener('DOMContentLoaded', function() {
+    var stickyBar = document.getElementById('stickyCtaMobile');
+    if (stickyBar) {
+      var checkScroll = function() {
+        if (window.scrollY > 320) {
+          stickyBar.classList.add('visible');
+        } else {
+          stickyBar.classList.remove('visible');
+        }
+      };
+      window.addEventListener('scroll', checkScroll, { passive: true });
+      checkScroll();
+    }
+  });
 })();
