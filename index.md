@@ -57,6 +57,26 @@ description: "Encontre os melhores produtos com comparativos técnicos imparciai
     </div>
   </article>
 
+  <article class="card-artigo">
+    <a href="{{ '/purificadores/electrolux-pe12g-vale-a-pena-review' | relative_url }}">
+      <img class="card-artigo-thumb" src="{{ '/assets/img/purificadores/electrolux-pe12g-review-capa.jpg' | relative_url }}" alt="Review Purificador Electrolux PE12G Grafite" loading="lazy">
+    </a>
+    <div class="card-artigo-body">
+      <div>
+        <span class="badge-categoria">Review & Análise</span>
+        <h3>
+          <a href="{{ '/purificadores/electrolux-pe12g-vale-a-pena-review' | relative_url }}" style="color: #0f172a; text-decoration: none;">
+            Electrolux PE12G é Bom? Vale a Pena em 2026?
+          </a>
+        </h3>
+        <p>Análise detalhada do purificador touch com vazão Powerjet: teste de temperatura, ruído, durabilidade e prós e contras.</p>
+      </div>
+      <a class="btn-ler" href="{{ '/purificadores/electrolux-pe12g-vale-a-pena-review' | relative_url }}">
+        Ler avaliação completa →
+      </a>
+    </div>
+  </article>
+
 </div>
 
 ---

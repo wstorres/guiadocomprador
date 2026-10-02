@@ -167,6 +167,8 @@ O **Electrolux PE12G** é um dos modelos mais vendidos da Electrolux por unir ac
 * **Cor Grafite Sofisticada:** Ao contrário dos modelos brancos tradicionais que podem amarelar com os anos sob luz solar ou gordura da cozinha, o acabamento grafite mantém o aspecto de novo por muito mais tempo.
 * **Painel Touch com Luz LED:** Os botões sensíveis ao toque facilitam a limpeza e contam com iluminação indicativa de quando o refil Acqua Pure precisa ser trocado.
 
+👉 *Quer ver todos os prós, contras e teste completo deste modelo? Leia nosso [review e análise aprofundada do Electrolux PE12G]({{ '/purificadores/electrolux-pe12g-vale-a-pena-review' | relative_url }}).*
+
 ---
 
 ## Eles gelam de verdade? Entenda a refrigeração eletrônica
