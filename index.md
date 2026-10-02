@@ -77,6 +77,26 @@ description: "Encontre os melhores produtos com comparativos técnicos imparciai
     </div>
   </article>
 
+  <article class="card-artigo">
+    <a href="{{ '/purificadores/midea-slimpure-vale-a-pena-review' | relative_url }}">
+      <img class="card-artigo-thumb" src="{{ '/assets/img/purificadores/midea-slimpure-review-capa.jpg' | relative_url }}" alt="Review Purificador Midea SlimPure Bivolt" loading="lazy">
+    </a>
+    <div class="card-artigo-body">
+      <div>
+        <span class="badge-categoria">Review & Análise</span>
+        <h3>
+          <a href="{{ '/purificadores/midea-slimpure-vale-a-pena-review' | relative_url }}" style="color: #0f172a; text-decoration: none;">
+            Midea SlimPure é Bom? Vale a Pena em 2026?
+          </a>
+        </h3>
+        <p>O purificador mais estreito da categoria (16,4 cm): teste do fluxo contínuo para garrafas, ruído, água fresca e economia de refil.</p>
+      </div>
+      <a class="btn-ler" href="{{ '/purificadores/midea-slimpure-vale-a-pena-review' | relative_url }}">
+        Ler avaliação completa →
+      </a>
+    </div>
+  </article>
+
 </div>
 
 ---

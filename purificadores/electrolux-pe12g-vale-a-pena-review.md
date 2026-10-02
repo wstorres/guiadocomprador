@@ -52,7 +52,7 @@ O <strong>Electrolux PE12G</strong> na cor grafite metálico é atualmente um do
 
 O acabamento grafite não amarela com os anos sob luz solar ou vapores de gordura da cozinha, e o sistema touch com aviso inteligente de troca de filtro evita que você beba água sem pureza por esquecimento.
 
-* 💡 *Está em dúvida se ele é a melhor opção para espaço mínimo ou quer comparar com concorrentes diretos? Veja também o nosso [comparativo Midea SlimPure vs Electrolux PE12G]({{ '/purificadores/midea-slimpure-vs-electrolux-pe12g' | relative_url }}).*
+* 💡 *Está em dúvida se ele é a melhor opção para espaço mínimo ou quer comparar com concorrentes diretos? Veja o nosso [comparativo Midea SlimPure vs Electrolux PE12G]({{ '/purificadores/midea-slimpure-vs-electrolux-pe12g' | relative_url }}) ou confira a [avaliação detalhada do Midea SlimPure]({{ '/purificadores/midea-slimpure-vale-a-pena-review' | relative_url }}).*
 
 <div class="quick-cta-container">
   <a class="btn-mini-meli" href="https://meli.la/17PDFnC" target="_blank" rel="sponsored noopener nofollow">

@@ -157,6 +157,8 @@ O **Midea SlimPure** se destaca pelo design ultra estreito (apenas 16,4 cm), sen
 * **Versatilidade Total:** Acompanha os acessórios necessários para uso tanto apoiado na pia quanto fixado diretamente na parede.
 * **Custo-Benefício:** Costuma ter um preço médio de compra e refis de reposição mais acessíveis do que a concorrência direta.
 
+👉 *Quer ver todos os detalhes e teste completo deste modelo? Leia nosso [review e análise aprofundada do Midea SlimPure]({{ '/purificadores/midea-slimpure-vale-a-pena-review' | relative_url }}).*
+
 ---
 
 ## Electrolux PE12G é bom? Vale a pena comprar?
