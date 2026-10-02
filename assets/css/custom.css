@@ -485,6 +485,12 @@ body {
   display: block;
 }
 
+.card-artigo-thumb.contain-thumb {
+  object-fit: contain;
+  background: #f8fafc;
+  padding: 12px;
+}
+
 .card-artigo-body {
   padding: 20px;
   flex: 1;

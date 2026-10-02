@@ -3,7 +3,7 @@ layout: default
 title: "Quando Trocar o Filtro do Purificador de Água? Guia Definitivo dos Refis Mais Vendidos (2026)"
 description: "Descubra os 5 sinais de que o filtro do purificador venceu, de quanto em quanto tempo trocar e onde comprar refis originais Electrolux e Midea pelo menor preço!"
 keywords: "quando trocar o filtro do purificador de agua, refil purificador vencido sinais, refil acqua pure electrolux, refil midea slimpure, onde comprar refil purificador original"
-image: "/assets/img/purificadores/quando-trocar-filtro-guia-capa.jpg"
+image: "/assets/img/purificadores/refil-midea-real-ml.webp"
 date: 2026-03-30
 sticky_cta_dual:
   title: "Refis Originais com Frete Rápido"
@@ -49,7 +49,19 @@ sticky_cta_dual:
 Você sabe exatamente quando deve trocar o refil do seu purificador de água? Usar um filtro vencido faz o aparelho perder a capacidade de reter cloro, ferrugem e sedimentos, podendo transformar o seu purificador em um criadouro de bactérias. Reunimos os 5 sinais definitivos de troca e os links para comprar os refis originais mais vendidos do Brasil pelo menor preço.
 </p>
 
-<img class="hero-foto" src="{{ '/assets/img/purificadores/quando-trocar-filtro-guia-capa.jpg' | relative_url }}" alt="Refis e filtros para purificadores de água em bancada de cozinha" width="1280" height="720" loading="eager">
+<div class="hero-foto-container" style="background: linear-gradient(180deg, #f8fafc 0%, #f1f5f9 100%); border-radius: 14px; padding: 24px; border: 1px solid #e2e8f0; margin: 16px 0 24px; box-shadow: 0 4px 16px rgba(0,0,0,0.04);">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 32px; flex-wrap: wrap;">
+    <div style="text-align: center; background: #ffffff; padding: 16px 20px; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
+      <img src="{{ '/assets/img/purificadores/refil-electrolux-real-ml.webp' | relative_url }}" alt="Foto Real do Refil Original Electrolux Acqua Pure" style="max-height: 240px; width: auto; display: block; margin: 0 auto;" loading="eager">
+      <span style="display: block; font-size: 0.85rem; font-weight: 600; color: #334155; margin-top: 10px;">Refil Electrolux Acqua Pure</span>
+    </div>
+    <div style="text-align: center; background: #ffffff; padding: 16px 20px; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
+      <img src="{{ '/assets/img/purificadores/refil-midea-real-ml.webp' | relative_url }}" alt="Foto Real do Refil Original Midea SlimPure" style="max-height: 240px; width: auto; border-radius: 8px; display: block; margin: 0 auto;" loading="eager">
+      <span style="display: block; font-size: 0.85rem; font-weight: 600; color: #334155; margin-top: 10px;">Refil Midea SlimPure</span>
+    </div>
+  </div>
+  <p style="text-align: center; margin-top: 16px; font-size: 0.88rem; color: #64748b; margin-bottom: 0;">Fotos reais dos refis oficiais mais vendidos no Mercado Livre</p>
+</div>
 
 <div class="box-decisao" markdown="1">
 
@@ -153,7 +165,9 @@ Se o café, chás ou sucos começarem a apresentar amargor ou sabor diferente do
 <div style="text-align: center;">
   <span class="selo-tag grafite">Mais Vendido do Brasil</span>
   <a class="foto-produto-link" href="https://meli.la/1SRZ9A2" target="_blank" rel="sponsored noopener nofollow" title="Ver refil Acqua Pure no Mercado Livre">
-    <img src="{{ '/assets/img/purificadores/refil-acqua-pure-original-capa.jpg' | relative_url }}" alt="Refil Acqua Pure Electrolux Original" width="220" height="124" loading="lazy" style="border-radius: 8px;">
+    <div style="background: #f8fafc; border-radius: 8px; padding: 14px; margin: 10px auto; display: inline-block;">
+      <img src="{{ '/assets/img/purificadores/refil-electrolux-real-ml.webp' | relative_url }}" alt="Refil Acqua Pure Electrolux Original" style="max-height: 180px; width: auto; display: block; margin: 0 auto;" loading="lazy">
+    </div>
     <span class="foto-badge-toque">🔍 Toque para ver preço oficial</span>
   </a>
   <h3>Refil Acqua Pure Electrolux</h3>
@@ -182,7 +196,7 @@ Se o café, chás ou sucos começarem a apresentar amargor ou sabor diferente do
 <div style="text-align: center;">
   <span class="selo-tag">Melhor Custo-Benefício</span>
   <a class="foto-produto-link" href="https://meli.la/2pdb5K5" target="_blank" rel="sponsored noopener nofollow" title="Ver refil Midea SlimPure no Mercado Livre">
-    <img src="{{ '/assets/img/purificadores/midea-slimpure.webp' | relative_url }}" alt="Refil Filtro Purificador Midea SlimPure" width="220" height="220" loading="lazy">
+    <img src="{{ '/assets/img/purificadores/refil-midea-real-ml.webp' | relative_url }}" alt="Refil Filtro Purificador Midea SlimPure" width="220" height="220" loading="lazy" style="border-radius: 8px; object-fit: cover;">
     <span class="foto-badge-toque">🔍 Toque para ver preço oficial</span>
   </a>
   <h3>Refil Midea SlimPure Original</h3>
@@ -258,7 +272,7 @@ Embora filtros genéricos custem alguns reais a menos, eles trazem sérios risco
       "@type": "Article",
       "headline": "Quando Trocar o Filtro do Purificador de Água? Guia Definitivo dos Refis Mais Vendidos (2026)",
       "description": "Descubra os 5 sinais de que o filtro do purificador venceu, de quanto em quanto tempo trocar e onde comprar refis originais pelo menor preço.",
-      "image": "{{ '/assets/img/purificadores/quando-trocar-filtro-guia-capa.jpg' | absolute_url }}",
+      "image": "{{ '/assets/img/purificadores/refil-midea-real-ml.webp' | absolute_url }}",
       "datePublished": "2026-03-30",
       "dateModified": "2026-03-30",
       "author": {

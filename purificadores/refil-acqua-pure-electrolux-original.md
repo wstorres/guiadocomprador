@@ -3,7 +3,7 @@ layout: default
 title: "Refil Acqua Pure Electrolux: Como Identificar o Original e Onde Comprar Mais Barato"
 description: "Guia completo do Refil Acqua Pure original para purificadores Electrolux PE11, PE12, PE12G e PC41. Como não cair em réplicas, passo a passo para trocar e menor preço!"
 keywords: "refil acqua pure electrolux original, filtro electrolux pe12g, filtro pe11x original, refil purificador electrolux onde comprar, como trocar refil acqua pure"
-image: "/assets/img/purificadores/refil-acqua-pure-original-capa.jpg"
+image: "/assets/img/purificadores/refil-electrolux-real-ml.webp"
 date: 2026-03-30
 sticky_cta:
   title: "Refil Acqua Pure Electrolux Original"
@@ -47,7 +47,10 @@ sticky_cta:
 A luz vermelha de troca de filtro acendeu no seu purificador Electrolux? O <strong>Refil Acqua Pure original</strong> é o coração do seu aparelho: é ele quem garante água sem gosto de cloro, sem odores e livre de sedimentos. Mas com a grande quantidade de réplicas e filtros paralelos no mercado, como garantir que você está comprando o refil 100% autêntico com o melhor preço?
 </p>
 
-<img class="hero-foto" src="{{ '/assets/img/purificadores/refil-acqua-pure-original-capa.jpg' | relative_url }}" alt="Refil Acqua Pure Original para purificadores Electrolux em bancada de cozinha" width="1280" height="720" loading="eager">
+<div class="hero-foto-container" style="background: linear-gradient(180deg, #f8fafc 0%, #f1f5f9 100%); border-radius: 14px; padding: 28px 20px; text-align: center; border: 1px solid #e2e8f0; margin: 16px 0 24px; box-shadow: 0 4px 16px rgba(0,0,0,0.04);">
+  <img src="{{ '/assets/img/purificadores/refil-electrolux-real-ml.webp' | relative_url }}" alt="Foto Real do Refil Acqua Pure Electrolux Original no Mercado Livre" style="max-height: 360px; width: auto; margin: 0 auto; display: block; filter: drop-shadow(0 10px 20px rgba(0,0,0,0.12));" loading="eager">
+  <span style="display: block; margin-top: 14px; font-size: 0.88rem; color: #64748b; font-weight: 500;">Foto real oficial do produto autêntico Electrolux (com logotipo em relevo e conector original)</span>
+</div>
 
 <div class="box-decisao" markdown="1">
 
@@ -120,7 +123,9 @@ A substituição é extremamente simples e não requer técnico nem ferramentas:
 <div style="text-align: center;">
   <span class="selo-tag grafite">Produto 100% Original</span>
   <a class="foto-produto-link" href="https://meli.la/1SRZ9A2" target="_blank" rel="sponsored noopener nofollow" title="Toque para ver refil original no Mercado Livre">
-    <img src="{{ '/assets/img/purificadores/refil-acqua-pure-original-capa.jpg' | relative_url }}" alt="Refil Filtro Acqua Pure Electrolux Original" width="280" height="158" loading="lazy" style="border-radius: 10px;">
+    <div style="background: #f8fafc; border-radius: 10px; padding: 16px; margin: 12px auto; display: inline-block;">
+      <img src="{{ '/assets/img/purificadores/refil-electrolux-real-ml.webp' | relative_url }}" alt="Refil Filtro Acqua Pure Electrolux Original" style="max-height: 220px; width: auto; display: block; margin: 0 auto;" loading="lazy">
+    </div>
     <span class="foto-badge-toque">🔍 Toque para ver preço oficial e kits com desconto</span>
   </a>
   <h3>Refil Acqua Pure Electrolux Original</h3>
@@ -183,7 +188,7 @@ A substituição é extremamente simples e não requer técnico nem ferramentas:
     {
       "@type": "Product",
       "name": "Refil Filtro Acqua Pure Electrolux Original",
-      "image": "{{ '/assets/img/purificadores/refil-acqua-pure-original-capa.jpg' | absolute_url }}",
+      "image": "{{ '/assets/img/purificadores/refil-electrolux-real-ml.webp' | absolute_url }}",
       "description": "Refil original de reposição Acqua Pure para purificadores de água Electrolux PE11, PE12, PE12G e PC41.",
       "brand": {
         "@type": "Brand",

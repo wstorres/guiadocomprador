@@ -99,7 +99,7 @@ description: "Encontre os melhores produtos com comparativos técnicos imparciai
 
   <article class="card-artigo">
     <a href="{{ '/purificadores/quando-trocar-filtro-do-purificador-guia-refis' | relative_url }}">
-      <img class="card-artigo-thumb" src="{{ '/assets/img/purificadores/quando-trocar-filtro-guia-capa.jpg' | relative_url }}" alt="Guia de quando trocar o filtro do purificador" loading="lazy">
+      <img class="card-artigo-thumb" src="{{ '/assets/img/purificadores/refil-midea-real-ml.webp' | relative_url }}" alt="Guia de quando trocar o filtro do purificador" loading="lazy">
     </a>
     <div class="card-artigo-body">
       <div>
@@ -119,7 +119,7 @@ description: "Encontre os melhores produtos com comparativos técnicos imparciai
 
   <article class="card-artigo">
     <a href="{{ '/purificadores/refil-acqua-pure-electrolux-original' | relative_url }}">
-      <img class="card-artigo-thumb" src="{{ '/assets/img/purificadores/refil-acqua-pure-original-capa.jpg' | relative_url }}" alt="Refil Acqua Pure Electrolux Original" loading="lazy">
+      <img class="card-artigo-thumb contain-thumb" src="{{ '/assets/img/purificadores/refil-electrolux-real-ml.webp' | relative_url }}" alt="Refil Acqua Pure Electrolux Original" loading="lazy">
     </a>
     <div class="card-artigo-body">
       <div>
