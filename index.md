@@ -141,6 +141,34 @@ description: "Encontre os melhores produtos com comparativos técnicos imparciai
 
 ---
 
+<h2 id="cafeteiras">☕ Cafeteiras de Cápsula em Destaque</h2>
+
+<div class="grid-comparativos">
+
+  <article class="card-artigo">
+    <a href="{{ '/cafeteiras/dolce-gusto-minime-vale-a-pena-review' | relative_url }}">
+      <img class="card-artigo-thumb" src="{{ '/assets/img/cafeteiras/dolce-gusto-minime-capa.jpg' | relative_url }}" alt="Cafeteira Nescafé Dolce Gusto Mini Me Preta em bancada moderna" loading="lazy">
+    </a>
+    <div class="card-artigo-body">
+      <div>
+        <span class="badge-categoria">Review & Análise</span>
+        <h3>
+          <a href="{{ '/cafeteiras/dolce-gusto-minime-vale-a-pena-review' | relative_url }}" style="color: #0f172a; text-decoration: none;">
+            Dolce Gusto Mini Me é Boa? Vale a Pena em 2026?
+          </a>
+        </h3>
+        <p>15 bar de pressão, +30 bebidas e design compacto: análise completa da cafeteira de cápsula mais vendida do Brasil, com prós, contras e onde comprar mais barato.</p>
+      </div>
+      <a class="btn-ler" href="{{ '/cafeteiras/dolce-gusto-minime-vale-a-pena-review' | relative_url }}">
+        Ler avaliação completa →
+      </a>
+    </div>
+  </article>
+
+</div>
+
+---
+
 <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 14px; padding: 26px 30px; margin: 36px 0; box-shadow: 0 2px 10px rgba(0,0,0,0.02);">
   <h3 style="margin-top: 0; color: #0f172a;">🛡️ Como Funciona o Guia do Comprador?</h3>
   <ul style="padding-left: 20px; color: #475569; line-height: 1.7; margin-bottom: 0;">
