@@ -202,13 +202,33 @@ description: "Encontre os melhores produtos com comparativos técnicos imparciai
         <span class="badge-categoria">Guia Mecânico & Peças</span>
         <h3>
           <a href="{{ '/automotivo/tampa-valvula-zetec-rocam-aluminio-ou-florio' | relative_url }}" style="color: #0f172a; text-decoration: none;">
-            Tampa de Válvula Zetec Rocam: Alumínio ou Plástico Flório?
+            Tampa de Válvula Zetec Rocam: Alumínio ou Plástico?
           </a>
         </h3>
         <p>Vazamento de óleo crônico no motor Ford 1.0 e 1.6? Compare a tampa de alumínio definitiva vs. plástico Flório original, segredos da junta Sabó e alerta do sensor com furo.</p>
       </div>
       <a class="btn-ler" href="{{ '/automotivo/tampa-valvula-zetec-rocam-aluminio-ou-florio' | relative_url }}">
         Ler guia completo →
+      </a>
+    </div>
+  </article>
+
+  <article class="card-artigo">
+    <a href="{{ '/automotivo/valvula-pcv-esfera-zetec-rocam-bs-turbo' | relative_url }}">
+      <img class="card-artigo-thumb contain-thumb" src="{{ '/assets/img/automotivo/valvula-pcv-esfera-zetec-rocam-metal.png' | relative_url }}" alt="Válvula PCV Esférica em Metal Zetec Rocam BS Turbo" loading="lazy">
+    </a>
+    <div class="card-artigo-body">
+      <div>
+        <span class="badge-categoria">Diagnóstico Mecânico</span>
+        <h3>
+          <a href="{{ '/automotivo/valvula-pcv-esfera-zetec-rocam-bs-turbo' | relative_url }}" style="color: #0f172a; text-decoration: none;">
+            Válvula PCV de Metal com Esfera (BS Turbo): Vale a Pena?
+          </a>
+        </h3>
+        <p>Marcha lenta oscilando, perda de força e fumaça no Zetec Rocam? Conheça o novo modelo esférico em metal maciço que substitui o frágil antichamas plástico original.</p>
+      </div>
+      <a class="btn-ler" href="{{ '/automotivo/valvula-pcv-esfera-zetec-rocam-bs-turbo' | relative_url }}">
+        Ver análise completa →
       </a>
     </div>
   </article>
