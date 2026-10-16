@@ -167,7 +167,7 @@ description: "Encontre os melhores produtos com comparativos técnicos imparciai
 
   <article class="card-artigo">
     <a href="{{ '/cafeteiras/tres-coracoes-lov-vale-a-pena-review' | relative_url }}">
-      <img class="card-artigo-thumb" src="{{ '/assets/img/cafeteiras/tres-lov-capa.jpg' | relative_url }}" alt="Cafeteira 3 Corações LOV Vermelha na bancada" loading="lazy">
+      <img class="card-artigo-thumb contain-thumb" src="{{ '/assets/img/cafeteiras/tres-lov-oficial.png' | relative_url }}" alt="Cafeteira 3 Corações LOV Vermelha Oficial" loading="lazy">
     </a>
     <div class="card-artigo-body">
       <div>
