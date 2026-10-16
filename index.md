@@ -219,16 +219,16 @@ description: "Encontre os melhores produtos com comparativos técnicos imparciai
     </a>
     <div class="card-artigo-body">
       <div>
-        <span class="badge-categoria">Diagnóstico Mecânico</span>
+        <span class="badge-categoria">Solução Definitiva</span>
         <h3>
           <a href="{{ '/automotivo/valvula-pcv-esfera-zetec-rocam-bs-turbo' | relative_url }}" style="color: #0f172a; text-decoration: none;">
-            Válvula PCV de Metal com Esfera (BS Turbo): Vale a Pena?
+            Falta de Força, Marcha Lenta Oscilando e Fumaça no Zetec Rocam: Como Resolver?
           </a>
         </h3>
-        <p>Marcha lenta oscilando, perda de força e fumaça no Zetec Rocam? Conheça o novo modelo esférico em metal maciço que substitui o frágil antichamas plástico original.</p>
+        <p>Motor oscilando em marcha lenta, sem força na arrancada ou soltando fumaça azul? Veja como o novo antichamas patenteado de metal com esfera resolve o problema crônico.</p>
       </div>
       <a class="btn-ler" href="{{ '/automotivo/valvula-pcv-esfera-zetec-rocam-bs-turbo' | relative_url }}">
-        Ver análise completa →
+        Ver solução passo a passo →
       </a>
     </div>
   </article>
