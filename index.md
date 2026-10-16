@@ -189,6 +189,34 @@ description: "Encontre os melhores produtos com comparativos técnicos imparciai
 
 ---
 
+<h2 id="automotivo">🚗 Peças Automotivas & Manutenção</h2>
+
+<div class="grid-comparativos">
+
+  <article class="card-artigo">
+    <a href="{{ '/automotivo/tampa-valvula-zetec-rocam-aluminio-ou-florio' | relative_url }}">
+      <img class="card-artigo-thumb" src="{{ '/assets/img/automotivo/tampa-valvulas-zetec-rocam-carros-banner.jpg' | relative_url }}" alt="Tampa de Válvula Zetec Rocam Ford Ka Fiesta Ecosport Focus" loading="lazy">
+    </a>
+    <div class="card-artigo-body">
+      <div>
+        <span class="badge-categoria">Guia Mecânico & Peças</span>
+        <h3>
+          <a href="{{ '/automotivo/tampa-valvula-zetec-rocam-aluminio-ou-florio' | relative_url }}" style="color: #0f172a; text-decoration: none;">
+            Tampa de Válvula Zetec Rocam: Alumínio ou Plástico Flório?
+          </a>
+        </h3>
+        <p>Vazamento de óleo crônico no motor Ford 1.0 e 1.6? Compare a tampa de alumínio definitiva vs. plástico Flório original, segredos da junta Sabó e alerta do sensor com furo.</p>
+      </div>
+      <a class="btn-ler" href="{{ '/automotivo/tampa-valvula-zetec-rocam-aluminio-ou-florio' | relative_url }}">
+        Ler guia completo →
+      </a>
+    </div>
+  </article>
+
+</div>
+
+---
+
 <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 14px; padding: 26px 30px; margin: 36px 0; box-shadow: 0 2px 10px rgba(0,0,0,0.02);">
   <h3 style="margin-top: 0; color: #0f172a;">🛡️ Como Funciona o Guia do Comprador?</h3>
   <ul style="padding-left: 20px; color: #475569; line-height: 1.7; margin-bottom: 0;">
