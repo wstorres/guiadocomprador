@@ -165,6 +165,26 @@ description: "Encontre os melhores produtos com comparativos técnicos imparciai
     </div>
   </article>
 
+  <article class="card-artigo">
+    <a href="{{ '/cafeteiras/tres-coracoes-lov-vale-a-pena-review' | relative_url }}">
+      <img class="card-artigo-thumb" src="{{ '/assets/img/cafeteiras/tres-lov-capa.jpg' | relative_url }}" alt="Cafeteira 3 Corações LOV Vermelha na bancada" loading="lazy">
+    </a>
+    <div class="card-artigo-body">
+      <div>
+        <span class="badge-categoria">Review & Análise</span>
+        <h3>
+          <a href="{{ '/cafeteiras/tres-coracoes-lov-vale-a-pena-review' | relative_url }}" style="color: #0f172a; text-decoration: none;">
+            Cafeteira 3 Corações LOV é Boa? Vale a Pena em 2026?
+          </a>
+        </h3>
+        <p>Multipressão 15 e 2 bar, descarte automático e cápsulas mais baratas: vale a pena investir na cafeteira automática compacta da TRES? Confira os testes.</p>
+      </div>
+      <a class="btn-ler" href="{{ '/cafeteiras/tres-coracoes-lov-vale-a-pena-review' | relative_url }}">
+        Ler avaliação completa →
+      </a>
+    </div>
+  </article>
+
 </div>
 
 ---
