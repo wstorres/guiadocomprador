@@ -3,7 +3,7 @@ layout: default
 title: "Cafeteira 3 Corações LOV é Boa? Vale a Pena em 2026? Review Completo"
 description: "Review sincero da cafeteira de cápsula Três Corações LOV: pressão multipressão (15 e 2 bar), compatibilidade de cápsulas, chás, cafés filtrados, prós e contras."
 keywords: "cafeteira tres coracoes lov e boa, tres coracoes lov vale a pena, cafeteira lov 3 coracoes review, cafeteira tres automatica lov vermelha, melhor cafeteira de capsula tres coracoes 2026"
-image: "/assets/img/cafeteiras/tres-lov-oficial.png"
+image: "/assets/img/cafeteiras/tres-lov-banner-oficial.png"
 date: 2026-10-16
 sticky_cta:
   title: "Cafeteira 3 Corações LOV"
@@ -47,10 +47,7 @@ sticky_cta:
 A <strong>Cafeteira 3 Corações LOV</strong> é um dos maiores sucessos de venda no mercado brasileiro de cafeteiras de cápsula. Com design compacto e moderno inspirado no formato de um grão de café, ela se destaca pela exclusiva tecnologia multipressão — capaz de extrair espressos encorpados, cafés filtrados suaves e chás naturais na temperatura ideal. Mas será que ela vale a pena para a sua rotina? Analisamos cada detalhe neste review prático.
 </p>
 
-<div class="hero-foto-container" style="background: linear-gradient(180deg, #f8fafc 0%, #f1f5f9 100%); border-radius: 14px; padding: 28px 20px; text-align: center; border: 1px solid #e2e8f0; margin: 16px 0 24px; box-shadow: 0 4px 16px rgba(0,0,0,0.04);">
-  <img src="{{ '/assets/img/cafeteiras/tres-lov-oficial.png' | relative_url }}" alt="Cafeteira Tres Automática LOV Vermelha — foto real oficial do produto" style="max-height: 420px; width: auto; margin: 0 auto; display: block; filter: drop-shadow(0 10px 22px rgba(0,0,0,0.14));" loading="eager">
-  <span style="display: block; margin-top: 14px; font-size: 0.88rem; color: #64748b; font-weight: 500;">Foto real oficial do produto: Cafeteira Três Corações LOV Automática Vermelha com xícara de espresso</span>
-</div>
+<img class="hero-foto" src="{{ '/assets/img/cafeteiras/tres-lov-banner-oficial.png' | relative_url }}" alt="Cafeteira 3 Corações LOV Vermelha com variedade de cápsulas TRES — Espresso, Cappuccino, Chá e Café com Leite" width="1280" height="720" loading="eager" style="border-radius: 12px; box-shadow: 0 4px 18px rgba(0,0,0,0.06);">
 
 <div class="box-decisao" markdown="1">
 
@@ -325,7 +322,7 @@ Para garantir nota fiscal nacional, garantia total de 1 ano do fabricante e envi
     {
       "@type": "Product",
       "name": "Cafeteira Tres Automática Lov Vermelha",
-      "image": "{{ '/assets/img/cafeteiras/tres-lov-oficial.png' | absolute_url }}",
+      "image": "{{ '/assets/img/cafeteiras/tres-lov-banner-oficial.png' | absolute_url }}",
       "description": "Cafeteira de cápsula Tres Corações LOV Automática, multipressão 15 e 2 bar, reservatório 950 ml, descarte interno automático e mais de 35 bebidas.",
       "brand": {
         "@type": "Brand",
